@@ -91,6 +91,12 @@ Made with ♥ by [DxDiaGG12](https://github.com/DxDiaGG12)
 
 ---
 
+## 🤝 Kontributor
+
+- [Achoruz](https://github.com/Achoruz)
+
+---
+
 ## 📜 Lisensi
 
 Proyek ini hanya untuk penggunaan pribadi atau edukasi.  
