@@ -1,0 +1,1313 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - valheim (2/3/2025 4:39:12 PM)
+[Message:   BepInEx] User is running BepInExPack Valheim version 5.4.2202 from Thunderstore
+[Info   :   BepInEx] Running under Unity v2022.3.50.12835711
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 16 plugins to load
+[Info   :   BepInEx] Loading [Build Restriction Tweaks 0.3.0]
+[Info   :   BepInEx] Loading [AzuCraftyBoxes 1.8.4]
+[Info   :   BepInEx] Loading [VikingsDoSwim 1.3.8]
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #3 - 'localization_witch' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #6 - 'localization_captions' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #3 - 'localization_witch' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #6 - 'localization_captions' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #3 - 'localization_witch' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #6 - 'localization_captions' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #3 - 'localization_witch' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #6 - 'localization_captions' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #3 - 'localization_witch' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:40: Loaded localization file #6 - 'localization_captions' language: 'English'
+
+[Info   :   BepInEx] Loading [Configuration Manager 18.4.1]
+[Info   :   BepInEx] Loading [Message Center 1.1.1.1]
+[Info   :   BepInEx] Loading [Dude, Where's My Portal 0.1.3]
+[Info   :   BepInEx] Loading [YamlDotNet Detector 1.0.0]
+[Info   :YamlDotNet Detector] YamlDotNet 16.0.0.0 loaded from plugins\YamlDotNet.dll
+[Info   :   BepInEx] Loading [Better Networking 2.3.2]
+[Info   :   BepInEx] Loading [Smart Containers Mod 1.7.0]
+[Info   :   BepInEx] Loading [Sailing 1.1.7]
+[Info   :   BepInEx] Loading [TargetPortal 1.2.0]
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.2]
+[Info   :   BepInEx] Loading [DodgeShortcut 1.3.1]
+[Info   :   BepInEx] Loading [Extra Slots 1.0.32]
+[Info   :   BepInEx] Loading [Hip Lantern 1.0.20]
+[Info   :   BepInEx] Loading [Adventure Backpacks 1.7.10]
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] 07/31/2025 15:47:43: Using environment steamid 892970
+
+[Info   : Unity Log] 07/31/2025 15:47:43: Using steam APPID:892970
+
+[Info   : Unity Log] 07/31/2025 15:47:43: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 07/31/2025 15:47:43: Platform doesn't implement Process Lifetime Management! Don't initialize suspend manager.
+
+[Info   : Unity Log] 07/31/2025 15:47:43: Initialized platform!
+
+[Info   : Unity Log] 07/31/2025 15:47:43: Platform doesn't implement matchmaking! Don't initialize matchmaking manager.
+
+[Info   : Unity Log] 07/31/2025 15:47:43: All files in local storage save data:
+C:/Users/MSII/AppData/LocalLow/IronGate/Valheim\adminlist.txt (40)
+C:/Users/MSII/AppData/LocalLow/IronGate/Valheim\bannedlist.txt (41)
+C:/Users/MSII/AppData/LocalLow/IronGate/Valheim\permittedlist.txt (43)
+C:/Users/MSII/AppData/LocalLow/IronGate/Valheim\Player-prev.log (249080)
+C:/Users/MSII/AppData/LocalLow/IronGate/Valheim\Player.log (7454)
+
+[Info   : Unity Log] 07/31/2025 15:47:43: All files in platform save data:
+characters/dxdiagg.fch (126364)
+characters/dxdiagg.fch.old (126364)
+characters/dxdiagg_backup_20240305-125857.fch (54415)
+characters/dxdiagg_backup_20240828-233957.fch (65889)
+characters/dxdiagg_backup_20241029-201311.fch (74348)
+characters/dxdiagg_backup_auto-20250731144843.fch (124735)
+serverlist/favorite (50)
+serverlist/favorite.old (88)
+serverlist/recent (203)
+serverlist/recent.old (203)
+worlds/Buatbulakbalik.db (1180626)
+worlds/Buatbulakbalik.fwl (55)
+worlds/Buatbulakbalik_backup_auto-20241103220125.fwl (55)
+worlds/General.db (1427273)
+worlds/General.fwl (48)
+worlds/General.fwl.old (43)
+worlds/GeneralWorld.fwl.old (48)
+worlds/GeneralWorld_backup_auto-20230227194005.fwl (48)
+worlds/General_backup_20241101-210223.db (3311371)
+worlds/General_backup_20241101-210223.fwl (43)
+worlds/General_backup_auto-20230226225554.fwl (43)
+worlds/General_backup_auto-20230227131650.db (2535766)
+worlds/General_backup_auto-20230227131650.fwl (43)
+worlds/General_backup_auto-20230323053850.db (3252973)
+worlds/General_backup_auto-20230323053850.fwl (43)
+worlds/TestWorld.fwl.old (45)
+worlds/TestWorld_backup_auto-20230226055804.fwl (45)
+worlds/World1.db (1569644)
+worlds/World1.fwl (47)
+worlds/World1_backup_20241101-204953.db (1532377)
+worlds/World1_backup_20241101-204953.fwl (47)
+worlds/World1_backup_auto-20240305124620.fwl (47)
+worlds/World1_backup_auto-20240306074437.db (1532377)
+worlds/World1_backup_auto-20240306074437.fwl (47)
+characters/dxdiagg_backup_auto-20250729221758.fch (119096)
+characters/dxdiagg_backup_auto-20250730141858.fch (123116)
+characters/dxdiagg_backup_auto-20250731104442.fch (123954)
+
+[Info   : Unity Log] 07/31/2025 15:47:43: Set background loading budget to Low
+
+[Info   :Smart Containers Mod] parsed PrefixedItemGroups : [trophy,mead,arrow,armor,cape,helmet,atgeir,bow,battleaxe,knife,mace,shield,sledge,spear,sword,tankard,club,mushroom] (18)
+[Info   :Smart Containers Mod] parsed PostfixedItemGroups: [cone,seeds,pelt,hide,berries] (5)
+[Info   :Smart Containers Mod] parsed items group 'berries': [blueberries,raspberries,cloudberries,honey] (4)
+[Info   :Smart Containers Mod] parsed items group 'cookedMeat': [cookedloxmeat,necktailgrilled,meatcooked,fishcooked,serpentmeatcooked] (5)
+[Info   :Smart Containers Mod] parsed items group 'food': [carrotsoup,sausages,queensjam,serpentstew,turnipstew,bloodpudding] (6)
+[Info   :Smart Containers Mod] parsed items group 'ingots': [copper,bronze,flametal,iron,silver,tin,blackmetal] (7)
+[Info   :Smart Containers Mod] parsed items group 'mushrooms': [mushroom,mushroomblue,mushroomyellow,mushroomcommon] (4)
+[Info   :Smart Containers Mod] parsed items group 'ore': [copperore,flametalore,ironore,silverore,tinore,ironscrap,blackmetalscrap] (7)
+[Info   :Smart Containers Mod] parsed items group 'rock': [stone,flint,obsidian] (3)
+[Info   :Smart Containers Mod] parsed items group 'userGroup1753858573': [charredbone,charcoalresin,proustitepowder,volturemeat,asksvinmeat,smokepuff,asksvincarrionribcage,vineberry,vineberryseeds,askbladder,fiddleheadfern,voltureegg,sulfurstone,bonemawmeat,morgenheart,charredskull,celestialfeather,trophyvolture,charredcogwheel,gemstonegreen,trophybonemaw,bonemawtooth,feathers,moltencore,askhide,morgensinew] (26)
+[Info   :Smart Containers Mod] parsed items group 'valuables': [ruby,coins,amber,amberpearl] (4)
+[Info   :Smart Containers Mod] parsed items group 'vegetables': [carrot,turnip] (2)
+[Info   :Smart Containers Mod] parsed items group 'wood': [wood,finewood,corewood,elderbark,roundlog] (5)
+[Info   : Unity Log] 07/31/2025 15:47:43: Loading first scene
+
+[Info   :AzuCraftyBoxes] Configuration reload complete.
+[Warning: Unity Log] 07/31/2025 15:47:43: Fetching PlatformPrefs 'GuiScale' before loading defaults
+
+[Warning: Unity Log] 07/31/2025 15:47:43: Fetching PlatformPrefs 'GuiScale' before loading defaults
+
+[Warning: Unity Log] 07/31/2025 15:47:43: Fetching PlatformPrefs 'ControllerLayout' before loading defaults
+
+[Warning: Unity Log] 07/31/2025 15:47:43: Fetching PlatformPrefs 'ControllerLayout' before loading defaults
+
+[Info   : Unity Log] 07/31/2025 15:47:44: Initializing loading indicator instance
+
+[Info   : Unity Log] 07/31/2025 15:47:44: Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
+
+[Info   : Unity Log] 07/31/2025 15:47:44: Set background loading budget to Normal
+
+[Info   : Unity Log] 07/31/2025 15:47:48: Set background loading budget to High
+
+[Info   : Unity Log] 07/31/2025 15:47:50: Destroying loading indicator instance
+
+[Info   : Unity Log] 07/31/2025 15:47:50: Set background loading budget to Low
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Warning: Unity Log] 07/31/2025 15:47:50: Missing audio clip in music respawn
+
+[Info   : Unity Log] 07/31/2025 15:47:53: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:53: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:53: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:53: Loaded localization file #3 - 'localization_witch' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:53: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:53: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:53: Loaded localization file #6 - 'localization_captions' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:53: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:53: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:53: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:53: Loaded localization file #3 - 'localization_witch' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:53: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:53: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:53: Loaded localization file #6 - 'localization_captions' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:53: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:53: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:53: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:53: Loaded localization file #3 - 'localization_witch' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:53: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:53: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:53: Loaded localization file #6 - 'localization_captions' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:54: Steam initialized, persona:DxDiaGG
+
+[Info   : Unity Log] 07/31/2025 15:47:54: Using default prefs
+
+[Info   : Unity Log] 07/31/2025 15:47:54: Valheim version: 0.220.5 (network version 34)
+
+[Info   : Unity Log] Trying to set graphic mode to 'Custom'
+[Info   : Unity Log] Graphic mode 'Custom' is not or no longer supported. Fallback to default mode for platform...
+[Info   : Unity Log] Graphic mode 'Custom' applied!
+[Info   : Unity Log] 07/31/2025 15:47:54: Worldgenerator version setup:2
+
+[Info   : Unity Log] 07/31/2025 15:47:54: Render threading mode:MultiThreaded
+
+[Info   : Unity Log] 07/31/2025 15:47:54: Checking for installed DLCs
+
+[Info   : Unity Log] 07/31/2025 15:47:54: DLC:beta installed:False
+
+[Info   : Unity Log] 07/31/2025 15:47:54: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:54: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:54: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:54: Loaded localization file #3 - 'localization_witch' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:54: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:54: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:54: Loaded localization file #6 - 'localization_captions' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:54: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:54: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:54: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:54: Loaded localization file #3 - 'localization_witch' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:54: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:54: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:54: Loaded localization file #6 - 'localization_captions' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:54: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:54: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:54: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:54: Loaded localization file #3 - 'localization_witch' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:54: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:54: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:54: Loaded localization file #6 - 'localization_captions' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:47:55: Sending PlayFab login request (attempt 1)
+
+[Info   : Unity Log] 07/31/2025 15:47:55: Starting music menu
+
+[Info   : Unity Log] 07/31/2025 15:47:55: Session auth respons callback
+
+[Info   : Unity Log] 07/31/2025 15:47:56: Logged in PlayFab user via Steam auth session ticket
+
+[Info   : Unity Log] 07/31/2025 15:47:56: PlayFab local entity ID is E61C9E801C1AEA4F
+
+[Info   : Unity Log] 07/31/2025 15:47:56: Released session ticket
+
+[Info   : Unity Log] 07/31/2025 15:48:01: show character selection
+
+[Info   : Unity Log] 07/31/2025 15:48:02: OnCharacterStart
+
+[Info   : Unity Log] 07/31/2025 15:48:04: Loading main scene
+
+[Info   : Unity Log] 07/31/2025 15:48:04: Audioman already exist, destroying self
+
+[Info   : Unity Log] 07/31/2025 15:48:04: Steam initialized, persona:DxDiaGG
+
+[Info   : Unity Log] 07/31/2025 15:48:04: Using default prefs
+
+[Info   : Unity Log] 07/31/2025 15:48:04: Loading player profile dxdiagg
+
+[Info   : Unity Log] 07/31/2025 15:48:04: isModded: True
+
+[Info   : Unity Log] 07/31/2025 15:48:04: Zonesystem Awake 1083
+
+[Info   : Unity Log] 07/31/2025 15:48:04: DungeonDB Awake 1083
+
+[Info   : Unity Log] 07/31/2025 15:48:04: Steam initialized, persona:DxDiaGG
+
+[Info   : Unity Log] 07/31/2025 15:48:04: Worldgenerator version setup:1
+
+[Info   : Unity Log] Registered 'Azumatt.AzuCraftyBoxes ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'blacks7ar.VikingsDoSwim ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'org.bepinex.plugins.sailing ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'TargetPortal ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'shudnal.ExtraSlots ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'shudnal.HipLantern ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'vapok.mods.adventurebackpacks ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'vapok.mods.adventurebackpacks ItemManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] 07/31/2025 15:48:07: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Loaded localization file #3 - 'localization_witch' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Loaded localization file #6 - 'localization_captions' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Loaded localization file #3 - 'localization_witch' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Loaded localization file #6 - 'localization_captions' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Loaded localization file #3 - 'localization_witch' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Loaded localization file #6 - 'localization_captions' language: 'English'
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Checking for installed DLCs
+
+[Info   : Unity Log] 07/31/2025 15:48:07: DLC:beta installed:False
+
+[Info   :DodgeShortcut] Destroying child key_bkg (2) of DodgeKeyHint
+[Info   :DodgeShortcut] Destroying child plus of DodgeKeyHint
+[Info   :DodgeShortcut] Successfully modified Dodge Key Hint prefab.
+[Info   :DodgeShortcut] Updated Dodge Key Hint!
+[Info   :Smart Containers Mod] Cleaned up UI extensions.
+[Info   : Unity Log] 07/31/2025 15:48:07: Zonesystem Start 1083
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Added 25 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
+
+[Info   : Unity Log] 07/31/2025 15:48:07: DungeonDB Start 1083
+
+[Info   : Unity Log] 07/31/2025 15:48:07: ZRpc timeout set to 30s 
+
+[Info   : Unity Log] 07/31/2025 15:48:07: ZNET START
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Load world: Manusia (Manusia)
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Loading 1177458 zdos, my sessionID: -909980827, data version: 35
+
+[Info   : Unity Log] 07/31/2025 15:48:07: Loading in ZDOs
+
+[Info   : Unity Log] 07/31/2025 15:48:09: Adding to Dictionary
+
+[Info   : Unity Log] 07/31/2025 15:48:09: Adding to Sectors
+
+[Info   : Unity Log] 07/31/2025 15:48:09: Connecting Portals, Spawners & ZSyncTransforms
+
+[Info   : Unity Log] ConnectSpawners => Connected 386 spawners and 2012 'done' spawners.
+[Info   : Unity Log] 07/31/2025 15:48:09: Loaded 11160 locations
+
+[Info   : Unity Log] 07/31/2025 15:48:09: Unloading unused assets
+
+[Info   : Unity Log] Am I Host? True
+[Info   : Unity Log] 07/31/2025 15:48:10: Starting respawn
+
+[Info   : Unity Log] 07/31/2025 15:48:10: Loading minimap textures done [357ms]
+
+[Info   : Unity Log] 07/31/2025 15:48:10: Minimap: unpacking compressed mapData 23932 => 8395374 bytes
+
+[Info   : Unity Log] 07/31/2025 15:48:10: tip:$loadscreen_tip03
+
+[Info   : Unity Log] 07/31/2025 15:48:10: Initializing loading indicator instance
+
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] 07/31/2025 15:48:16: Force generating hmap (64.00, 0.00, -256.00)
+
+[Info   : Unity Log] 07/31/2025 15:48:16: Force generating hmap (128.00, 0.00, -256.00)
+
+[Info   : Unity Log] 07/31/2025 15:48:16: Force generating hmap (64.00, 0.00, -256.00)
+
+[Info   : Unity Log] 07/31/2025 15:48:16: Force generating hmap (128.00, 0.00, -256.00)
+
+[Info   : Unity Log] 07/31/2025 15:48:16: Done fading color
+
+[Info   : Unity Log] 07/31/2025 15:48:16: Done fading color
+
+[Info   : Unity Log] 07/31/2025 15:48:16: Done fading color
+
+[Info   : Unity Log] 07/31/2025 15:48:16: Done fading color
+
+[Info   : Unity Log] 07/31/2025 15:48:16: Done fading color
+
+[Info   : Unity Log] 07/31/2025 15:48:16: Done fading color
+
+[Info   : Unity Log] 07/31/2025 15:48:16: Done fading color
+
+[Info   : Unity Log] 07/31/2025 15:48:18: Spawned after 8.019994
+
+[Warning: Unity Log] 07/31/2025 15:48:18: Character ID for player ([Dxdiagg, 0:0], [DxDiaGG, 0:0], DxDiaGG) was 0:0. Skipping.
+
+[Info   : Unity Log] 07/31/2025 15:48:18: Skipping unloading unused assets
+
+[Info   : Unity Log] 07/31/2025 15:48:19: Minimap: Adding unique location (57.51, 86.06, -188.23)
+
+[Info   : Unity Log] 07/31/2025 15:48:19: Minimap: Adding unique location (-1427.37, 49.68, 1287.17)
+
+[Info   : Unity Log] 07/31/2025 15:48:19: Minimap: Adding unique location (184.53, 31.10, -3589.13)
+
+[Info   : Unity Log] 07/31/2025 15:48:19: Minimap: Adding unique location (6910.36, 31.14, 3256.08)
+
+[Info   : Unity Log] 07/31/2025 15:48:30: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:48:34: drop all 1  1
+
+[Info   : Unity Log] 07/31/2025 15:48:36: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:48:36: Setting selected recipe 0
+
+[Info   :Smart Containers Mod] Initialized UI extensions.
+[Info   : Unity Log] 07/31/2025 15:48:39: Queue unlock msg:$item_deerhide:Routed to another Chest
+
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] 07/31/2025 15:48:47: Starting music home
+
+[Info   : Unity Log] 07/31/2025 15:48:47: Resumed music home at 0
+
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] 07/31/2025 15:48:48: Player -909980827 wants to open piece_chest_wood(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:48:48: Setting selected recipe 2
+
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] 07/31/2025 15:48:48: Player -909980827 wants to open piece_chest_wood(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:48:48: Setting selected recipe 2
+
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] 07/31/2025 15:48:49: Setting selected recipe 2
+
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] 07/31/2025 15:48:51: Setting selected recipe 2
+
+[Info   : Unity Log] 07/31/2025 15:48:51: Setting selected recipe 2
+
+[Info   : Unity Log] 07/31/2025 15:48:52: Queue unlock msg:$item_carapace:Routed to another Chest
+
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] 07/31/2025 15:48:56: Setting selected recipe 2
+
+[Info   : Unity Log] 07/31/2025 15:48:56: Setting selected recipe 2
+
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] 07/31/2025 15:48:58: Queue unlock msg:$item_bug_meat:Routed to another Chest
+
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] 07/31/2025 15:48:59: Setting selected recipe 2
+
+[Info   : Unity Log] 07/31/2025 15:48:59: Setting selected recipe 2
+
+[Info   : Unity Log] 07/31/2025 15:49:02: Queue unlock msg:$item_askhide:Routed to another Chest
+
+[Info   : Unity Log] 07/31/2025 15:49:04: Queue unlock msg:$item_wood:Routed to another Chest
+
+[Info   : Unity Log] 07/31/2025 15:49:04: Queue unlock msg:$item_finewood:Routed to another Chest
+
+[Info   : Unity Log] 07/31/2025 15:49:06: Queue unlock msg:$item_dandelion:Routed to another Chest
+
+[Info   : Unity Log] 07/31/2025 15:49:07: Queue unlock msg:$item_bonefragments:Routed to another Chest
+
+[Info   : Unity Log] 07/31/2025 15:49:11: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:49:11: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:49:12: Stopped music home at 1120492
+
+[Info   : Unity Log] 07/31/2025 15:49:17: Queue unlock msg:$item_yggdrasilwood:Routed to another Chest
+
+[Info   : Unity Log] 07/31/2025 15:49:27: Setting selected recipe 1
+
+[Info   : Unity Log] 07/31/2025 15:49:27: Setting selected recipe 1
+
+[Info   : Unity Log] 07/31/2025 15:49:27: Spawned Skeleton x 1
+
+[Info   : Unity Log] 07/31/2025 15:49:28: Queue unlock msg:$item_coal:Routed to another Chest
+
+[Info   : Unity Log] 07/31/2025 15:49:32: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:49:32: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:49:42: Starting music home
+
+[Info   : Unity Log] 07/31/2025 15:49:42: Resumed music home at 1120492
+
+[Info   : Unity Log] 07/31/2025 15:49:43: Setting selected recipe 2
+
+[Info   : Unity Log] 07/31/2025 15:49:43: Setting selected recipe 2
+
+[Info   : Unity Log] 07/31/2025 15:49:44: Queue unlock msg:$item_chain:Routed to another Chest
+
+[Info   : Unity Log] 07/31/2025 15:49:46: Queue unlock msg:$item_resin:Routed to another Chest
+
+[Info   : Unity Log] 07/31/2025 15:49:48: Queue unlock msg:$item_freezegland:Routed to another Chest
+
+[Info   : Unity Log] 07/31/2025 15:49:51: Queue unlock msg:$item_wisp:Routed to another Chest
+
+[Info   : Unity Log] 07/31/2025 15:49:52: Queue unlock msg:$item_cloudberries:Routed to another Chest
+
+[Info   : Unity Log] 07/31/2025 15:49:55: Player -909980827 wants to open piece_chest_blackmetal(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:49:55: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:49:56: Player -909980827 wants to open piece_chest_blackmetal(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:49:56: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:49:58: Player -909980827 wants to open piece_chest(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:49:58: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:49:59: Player -909980827 wants to open piece_chest(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:49:59: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:50:00: Player -909980827 wants to open piece_chest_blackmetal(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:50:00: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:50:01: Player -909980827 wants to open piece_chest(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:50:01: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:50:02: Player -909980827 wants to open piece_chest_blackmetal(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:50:02: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:50:03: Player -909980827 wants to open piece_chest_blackmetal(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:50:03: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:50:05: Spawned Greydwarf_Elite x 1
+
+[Info   : Unity Log] 07/31/2025 15:50:09: Valid True
+
+[Info   : Unity Log] 07/31/2025 15:50:09: On death False
+
+[Info   : Unity Log] 07/31/2025 15:50:10: Player -909980827 wants to open piece_chest(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:50:10: Setting selected recipe 1
+
+[Info   : Unity Log] 07/31/2025 15:50:11: Player -909980827 wants to open piece_chest(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:50:11: Setting selected recipe 1
+
+[Info   : Unity Log] 07/31/2025 15:50:11: Player -909980827 wants to open piece_chest_blackmetal(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:50:11: Setting selected recipe 1
+
+[Info   : Unity Log] 07/31/2025 15:50:12: Stopped music home at 1300185
+
+[Info   : Unity Log] 07/31/2025 15:50:12: Starting music home
+
+[Info   : Unity Log] 07/31/2025 15:50:12: Resumed music home at 1300185
+
+[Info   : Unity Log] 07/31/2025 15:50:12: Player -909980827 wants to open piece_chest_blackmetal(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:50:12: Setting selected recipe 1
+
+[Info   : Unity Log] 07/31/2025 15:50:13: Player -909980827 wants to open piece_chest(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:50:13: Setting selected recipe 1
+
+[Info   : Unity Log] 07/31/2025 15:50:20: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:50:22: Stopped music home at 444998
+
+[Info   : Unity Log] 07/31/2025 15:50:25: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:50:26: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:50:35: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:50:37: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:50:38: drop all 4  4
+
+[Info   : Unity Log] 07/31/2025 15:50:40: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:50:40: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:50:46: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:50:47: Queue unlock msg:$item_wood:Routed to another Chest
+
+[Info   : Unity Log] 07/31/2025 15:50:49: Queue unlock msg:$item_coal:Routed to another Chest
+
+[Info   : Unity Log] 07/31/2025 15:50:57: Starting music home
+
+[Info   : Unity Log] 07/31/2025 15:50:57: Resumed music home at 444998
+
+[Info   : Unity Log] 07/31/2025 15:51:01: Player -909980827 wants to open piece_chest_wood(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:51:01: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:02: Player -909980827 wants to open piece_chest_wood(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:51:02: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:05: Player -909980827 wants to open piece_chest_wood(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:51:05: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:06: Player -909980827 wants to open piece_chest_wood(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:51:06: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:07: Player -909980827 wants to open piece_chest_wood(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:51:07: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:07: Player -909980827 wants to open piece_chest_wood(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:51:07: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:08: Player -909980827 wants to open piece_chest_wood(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:51:08: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:09: Player -909980827 wants to open piece_chest_wood(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:51:09: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:10: Player -909980827 wants to open piece_chest_wood(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:51:10: Setting selected recipe 0
+
+[Warning:Smart Containers Mod] Ambiguous item-groups [(userGroup1753858573, piece_chest_blackmetal(Clone) (Container)),(userGroup1753858573, piece_chest_wood(Clone) (Container)),(userGroup1753858573, piece_chest_blackmetal(Clone) (Container)),(userGroup1753858573, piece_chest_blackmetal(Clone) (Container)),(userGroup1753858573, piece_chest_blackmetal(Clone) (Container)),(userGroup1753858573, piece_chest_blackmetal(Clone) (Container)),(userGroup1753858573, piece_chest_wood(Clone) (Container)),(userGroup1753858573, piece_chest_blackmetal(Clone) (Container))] found for AskHide item. Using userGroup1753858573
+[Info   : Unity Log] 07/31/2025 15:51:11: Queue unlock msg:$item_askhide:Routed to another Chest
+
+[Info   : Unity Log] 07/31/2025 15:51:11: Queue unlock msg:$item_askhide:Routed to another Chest
+
+[Info   : Unity Log] 07/31/2025 15:51:19: Player -909980827 wants to open piece_chest_blackmetal(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:51:19: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:20: Stopped music home at 1476114
+
+[Info   : Unity Log] 07/31/2025 15:51:20: Player -909980827 wants to open piece_chest_blackmetal(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:51:20: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:21: Player -909980827 wants to open piece_chest_blackmetal(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:51:21: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:25: Spawned Greydwarf x 1
+
+[Info   : Unity Log] 07/31/2025 15:51:26: Starting music home
+
+[Info   : Unity Log] 07/31/2025 15:51:26: Resumed music home at 1476114
+
+[Info   : Unity Log] 07/31/2025 15:51:29: Player -909980827 wants to open piece_chest_blackmetal(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:51:29: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:30: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:33: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:34: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:34: Queue unlock msg:$item_askhide:Routed to another Chest
+
+[Info   : Unity Log] 07/31/2025 15:51:35: Player -909980827 wants to open piece_chest_blackmetal(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:51:35: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:37: Player -909980827 wants to open piece_chest_wood(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:51:37: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:38: Player -909980827 wants to open piece_chest_wood(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:51:38: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:39: Player -909980827 wants to open piece_chest_blackmetal(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:51:39: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:40: Activating default element Continue
+
+[Info   : Unity Log] 07/31/2025 15:51:42: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:42: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:43: Player -909980827 wants to open piece_chest_blackmetal(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:51:43: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:45: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:46: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:48: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:50: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:50: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:51: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:55: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:51:59: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:52:18: Player -909980827 wants to open piece_chest_barrel(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:52:18: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:52:18: Player -909980827 wants to open piece_chest_barrel(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:52:18: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:52:27: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:52:32: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:52:34: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:52:36: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:52:38: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:52:39: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:52:48: Activating default element Continue
+
+[Info   : Unity Log] 07/31/2025 15:52:50: Activating default element Continue
+
+[Info   : Unity Log] 07/31/2025 15:52:53: Activating default element Continue
+
+[Info   : Unity Log] 07/31/2025 15:52:54: Activating default element Continue
+
+[Info   : Unity Log] 07/31/2025 15:53:06: Player -909980827 wants to open piece_chest(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:53:06: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:53:13: Stopped music home at 4715289
+
+[Info   : Unity Log] 07/31/2025 15:53:14: Spawned Goblin x 3
+
+[Info   : Unity Log] 07/31/2025 15:53:20: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:54:43: Spawned Skeleton x 2
+
+[Info   : Unity Log] 07/31/2025 15:54:54: Setting selected recipe 1
+
+[Info   : Unity Log] 07/31/2025 15:54:56: Setting selected recipe 1
+
+[Info   : Unity Log] 07/31/2025 15:54:56: Setting selected recipe 1
+
+[Info   : Unity Log] 07/31/2025 15:54:56: Update PlayFab entity token
+
+[Info   : Unity Log] 07/31/2025 15:54:57: Starting music morning
+
+[Info   : Unity Log] 07/31/2025 15:54:57: Queue unlock msg:$item_stone:Routed to another Chest
+
+[Info   : Unity Log] 07/31/2025 15:54:57: Queue unlock msg:$item_wood:Routed to another Chest
+
+[Info   : Unity Log] 07/31/2025 15:54:57: Queue unlock msg:$item_blackmetalscrap:Routed to another Chest
+
+[Info   : Unity Log] 07/31/2025 15:55:02: Setting selected recipe 1
+
+[Info   : Unity Log] 07/31/2025 15:55:03: drop all 1  1
+
+[Info   : Unity Log] 07/31/2025 15:55:06: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:55:07: drop all 1  1
+
+[Info   : Unity Log] 07/31/2025 15:55:10: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:55:10: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:55:10: Queue unlock msg:$item_resin:Routed to another Chest
+
+[Info   : Unity Log] 07/31/2025 15:55:29: Placed piece_chest_wood
+
+[Info   : Unity Log] 07/31/2025 15:55:31: Starting music meadows
+
+[Info   : Unity Log] 07/31/2025 15:55:31: Player -909980827 wants to open piece_chest_wood(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:55:31: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:55:33: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:55:33: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:55:47: Player -909980827 wants to open piece_chest(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:55:47: Setting selected recipe 1
+
+[Info   : Unity Log] 07/31/2025 15:55:48: Player -909980827 wants to open piece_chest_blackmetal(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:55:48: Setting selected recipe 1
+
+[Info   : Unity Log] 07/31/2025 15:55:50: Setting selected recipe 1
+
+[Info   : Unity Log] 07/31/2025 15:56:16: Placed sign
+
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] 07/31/2025 15:56:32: Player -909980827 wants to open piece_chest_wood(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:56:32: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:56:34: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:56:44: Activating default element Continue
+
+[Info   : Unity Log] 07/31/2025 15:56:47: Activating default element Continue
+
+[Info   : Unity Log] 07/31/2025 15:56:50: Activating default element Continue
+
+[Info   :Smart Containers Mod] Cleaned up UI extensions.
+[Info   :Smart Containers Mod] Initialized UI extensions.
+[Info   :Smart Containers Mod] parsed PrefixedItemGroups : [trophy,mead,arrow,armor,cape,helmet,atgeir,bow,battleaxe,knife,mace,shield,sledge,spear,sword,tankard,club,mushroom] (18)
+[Info   :Smart Containers Mod] parsed PostfixedItemGroups: [cone,seeds,pelt,hide,berries] (5)
+[Info   :Smart Containers Mod] parsed items group 'berries': [blueberries,raspberries,cloudberries,honey] (4)
+[Info   :Smart Containers Mod] parsed items group 'cookedMeat': [cookedloxmeat,necktailgrilled,meatcooked,fishcooked,serpentmeatcooked] (5)
+[Info   :Smart Containers Mod] parsed items group 'food': [carrotsoup,sausages,queensjam,serpentstew,turnipstew,bloodpudding] (6)
+[Info   :Smart Containers Mod] parsed items group 'ingots': [copper,bronze,flametal,iron,silver,tin,blackmetal] (7)
+[Info   :Smart Containers Mod] parsed items group 'mushrooms': [mushroom,mushroomblue,mushroomyellow,mushroomcommon] (4)
+[Info   :Smart Containers Mod] parsed items group 'ore': [copperore,flametalore,ironore,silverore,tinore,ironscrap,blackmetalscrap] (7)
+[Info   :Smart Containers Mod] parsed items group 'rock': [stone,flint,obsidian] (3)
+[Info   :Smart Containers Mod] parsed items group 'userGroup1753858573': [charredbone,charcoalresin,proustitepowder,volturemeat,asksvinmeat,smokepuff,asksvincarrionribcage,vineberry,vineberryseeds,askbladder,fiddleheadfern,voltureegg,sulfurstone,bonemawmeat,morgenheart,charredskull,celestialfeather,trophyvolture,charredcogwheel,gemstonegreen,trophybonemaw,bonemawtooth,feathers,moltencore,askhide,morgensinew] (26)
+[Info   :Smart Containers Mod] parsed items group 'valuables': [ruby,coins,amber,amberpearl] (4)
+[Info   :Smart Containers Mod] parsed items group 'vegetables': [carrot,turnip] (2)
+[Info   :Smart Containers Mod] parsed items group 'wood': [wood,finewood,corewood,elderbark,roundlog] (5)
+[Info   :Smart Containers Mod] Cleaned up UI extensions.
+[Info   :Smart Containers Mod] Initialized UI extensions.
+[Info   :Smart Containers Mod] parsed PrefixedItemGroups : [trophy,mead,arrow,armor,cape,helmet,atgeir,bow,battleaxe,knife,mace,shield,sledge,spear,sword,tankard,club,mushroom] (18)
+[Info   :Smart Containers Mod] parsed PostfixedItemGroups: [cone,seeds,pelt,hide,berries] (5)
+[Info   :Smart Containers Mod] parsed items group 'berries': [blueberries,raspberries,cloudberries,honey] (4)
+[Info   :Smart Containers Mod] parsed items group 'cookedMeat': [cookedloxmeat,necktailgrilled,meatcooked,fishcooked,serpentmeatcooked] (5)
+[Info   :Smart Containers Mod] parsed items group 'food': [carrotsoup,sausages,queensjam,serpentstew,turnipstew,bloodpudding] (6)
+[Info   :Smart Containers Mod] parsed items group 'ingots': [copper,bronze,flametal,iron,silver,tin,blackmetal] (7)
+[Info   :Smart Containers Mod] parsed items group 'mushrooms': [mushroom,mushroomblue,mushroomyellow,mushroomcommon] (4)
+[Info   :Smart Containers Mod] parsed items group 'ore': [copperore,flametalore,ironore,silverore,tinore,ironscrap,blackmetalscrap] (7)
+[Info   :Smart Containers Mod] parsed items group 'rock': [stone,flint,obsidian] (3)
+[Info   :Smart Containers Mod] parsed items group 'userGroup1753858573': [charredbone,charcoalresin,proustitepowder,volturemeat,asksvinmeat,smokepuff,asksvincarrionribcage,vineberry,vineberryseeds,askbladder,fiddleheadfern,voltureegg,sulfurstone,bonemawmeat,morgenheart,charredskull,celestialfeather,trophyvolture,charredcogwheel,gemstonegreen,trophybonemaw,bonemawtooth,feathers,moltencore,askhide,morgensinew] (26)
+[Info   :Smart Containers Mod] parsed items group 'valuables': [ruby,coins,amber,amberpearl] (4)
+[Info   :Smart Containers Mod] parsed items group 'vegetables': [carrot,turnip] (2)
+[Info   :Smart Containers Mod] parsed items group 'wood': [wood,finewood,corewood,elderbark,roundlog] (5)
+[Info   :Smart Containers Mod] Cleaned up UI extensions.
+[Info   :Smart Containers Mod] Initialized UI extensions.
+[Info   :Smart Containers Mod] parsed PrefixedItemGroups : [trophy,mead,arrow,armor,cape,helmet,atgeir,bow,battleaxe,knife,mace,shield,sledge,spear,sword,tankard,club,mushroom] (18)
+[Info   :Smart Containers Mod] parsed PostfixedItemGroups: [cone,seeds,pelt,hide,berries] (5)
+[Info   :Smart Containers Mod] parsed items group 'berries': [blueberries,raspberries,cloudberries,honey] (4)
+[Info   :Smart Containers Mod] parsed items group 'cookedMeat': [cookedloxmeat,necktailgrilled,meatcooked,fishcooked,serpentmeatcooked] (5)
+[Info   :Smart Containers Mod] parsed items group 'food': [carrotsoup,sausages,queensjam,serpentstew,turnipstew,bloodpudding] (6)
+[Info   :Smart Containers Mod] parsed items group 'ingots': [copper,bronze,flametal,iron,silver,tin,blackmetal] (7)
+[Info   :Smart Containers Mod] parsed items group 'mushrooms': [mushroom,mushroomblue,mushroomyellow,mushroomcommon] (4)
+[Info   :Smart Containers Mod] parsed items group 'ore': [copperore,flametalore,ironore,silverore,tinore,ironscrap,blackmetalscrap] (7)
+[Info   :Smart Containers Mod] parsed items group 'rock': [stone,flint,obsidian] (3)
+[Info   :Smart Containers Mod] parsed items group 'userGroup1753858573': [charredbone,charcoalresin,proustitepowder,volturemeat,asksvinmeat,smokepuff,asksvincarrionribcage,vineberry,vineberryseeds,askbladder,fiddleheadfern,voltureegg,sulfurstone,bonemawmeat,morgenheart,charredskull,celestialfeather,trophyvolture,charredcogwheel,gemstonegreen,trophybonemaw,bonemawtooth,feathers,moltencore,askhide,morgensinew] (26)
+[Info   :Smart Containers Mod] parsed items group 'valuables': [ruby,coins,amber,amberpearl] (4)
+[Info   :Smart Containers Mod] parsed items group 'vegetables': [carrot,turnip] (2)
+[Info   :Smart Containers Mod] parsed items group 'wood': [wood,finewood,corewood,elderbark,roundlog] (5)
+[Info   :Smart Containers Mod] Cleaned up UI extensions.
+[Info   :Smart Containers Mod] Initialized UI extensions.
+[Info   :Smart Containers Mod] parsed PrefixedItemGroups : [trophy,mead,arrow,armor,cape,helmet,atgeir,bow,battleaxe,knife,mace,shield,sledge,spear,sword,tankard,club,mushroom] (18)
+[Info   :Smart Containers Mod] parsed PostfixedItemGroups: [cone,seeds,pelt,hide,berries] (5)
+[Info   :Smart Containers Mod] parsed items group 'berries': [blueberries,raspberries,cloudberries,honey] (4)
+[Info   :Smart Containers Mod] parsed items group 'cookedMeat': [cookedloxmeat,necktailgrilled,meatcooked,fishcooked,serpentmeatcooked] (5)
+[Info   :Smart Containers Mod] parsed items group 'food': [carrotsoup,sausages,queensjam,serpentstew,turnipstew,bloodpudding] (6)
+[Info   :Smart Containers Mod] parsed items group 'ingots': [copper,bronze,flametal,iron,silver,tin,blackmetal] (7)
+[Info   :Smart Containers Mod] parsed items group 'mushrooms': [mushroom,mushroomblue,mushroomyellow,mushroomcommon] (4)
+[Info   :Smart Containers Mod] parsed items group 'ore': [copperore,flametalore,ironore,silverore,tinore,ironscrap,blackmetalscrap] (7)
+[Info   :Smart Containers Mod] parsed items group 'rock': [stone,flint,obsidian] (3)
+[Info   :Smart Containers Mod] parsed items group 'userGroup1753858573': [charredbone,charcoalresin,proustitepowder,volturemeat,asksvinmeat,smokepuff,asksvincarrionribcage,vineberry,vineberryseeds,askbladder,fiddleheadfern,voltureegg,sulfurstone,bonemawmeat,morgenheart,charredskull,celestialfeather,trophyvolture,charredcogwheel,gemstonegreen,trophybonemaw,bonemawtooth,feathers,moltencore,askhide,morgensinew] (26)
+[Info   :Smart Containers Mod] parsed items group 'valuables': [ruby,coins,amber,amberpearl] (4)
+[Info   :Smart Containers Mod] parsed items group 'vegetables': [carrot,turnip] (2)
+[Info   :Smart Containers Mod] parsed items group 'wood': [wood,finewood,corewood,elderbark,roundlog] (5)
+[Info   :Smart Containers Mod] Cleaned up UI extensions.
+[Info   :Smart Containers Mod] Initialized UI extensions.
+[Info   :Smart Containers Mod] parsed PrefixedItemGroups : [trophy,mead,arrow,armor,cape,helmet,atgeir,bow,battleaxe,knife,mace,shield,sledge,spear,sword,tankard,club,mushroom] (18)
+[Info   :Smart Containers Mod] parsed PostfixedItemGroups: [cone,seeds,pelt,hide,berries] (5)
+[Info   :Smart Containers Mod] parsed items group 'berries': [blueberries,raspberries,cloudberries,honey] (4)
+[Info   :Smart Containers Mod] parsed items group 'cookedMeat': [cookedloxmeat,necktailgrilled,meatcooked,fishcooked,serpentmeatcooked] (5)
+[Info   :Smart Containers Mod] parsed items group 'food': [carrotsoup,sausages,queensjam,serpentstew,turnipstew,bloodpudding] (6)
+[Info   :Smart Containers Mod] parsed items group 'ingots': [copper,bronze,flametal,iron,silver,tin,blackmetal] (7)
+[Info   :Smart Containers Mod] parsed items group 'mushrooms': [mushroom,mushroomblue,mushroomyellow,mushroomcommon] (4)
+[Info   :Smart Containers Mod] parsed items group 'ore': [copperore,flametalore,ironore,silverore,tinore,ironscrap,blackmetalscrap] (7)
+[Info   :Smart Containers Mod] parsed items group 'rock': [stone,flint,obsidian] (3)
+[Info   :Smart Containers Mod] parsed items group 'userGroup1753858573': [charredbone,charcoalresin,proustitepowder,volturemeat,asksvinmeat,smokepuff,asksvincarrionribcage,vineberry,vineberryseeds,askbladder,fiddleheadfern,voltureegg,sulfurstone,bonemawmeat,morgenheart,charredskull,celestialfeather,trophyvolture,charredcogwheel,gemstonegreen,trophybonemaw,bonemawtooth,feathers,moltencore,askhide,morgensinew] (26)
+[Info   :Smart Containers Mod] parsed items group 'valuables': [ruby,coins,amber,amberpearl] (4)
+[Info   :Smart Containers Mod] parsed items group 'vegetables': [carrot,turnip] (2)
+[Info   :Smart Containers Mod] parsed items group 'wood': [wood,finewood,corewood,elderbark,roundlog] (5)
+[Info   :Smart Containers Mod] Cleaned up UI extensions.
+[Info   :Smart Containers Mod] Initialized UI extensions.
+[Info   :Smart Containers Mod] parsed PrefixedItemGroups : [trophy,mead,arrow,armor,cape,helmet,atgeir,bow,battleaxe,knife,mace,shield,sledge,spear,sword,tankard,club,mushroom] (18)
+[Info   :Smart Containers Mod] parsed PostfixedItemGroups: [cone,seeds,pelt,hide,berries] (5)
+[Info   :Smart Containers Mod] parsed items group 'berries': [blueberries,raspberries,cloudberries,honey] (4)
+[Info   :Smart Containers Mod] parsed items group 'cookedMeat': [cookedloxmeat,necktailgrilled,meatcooked,fishcooked,serpentmeatcooked] (5)
+[Info   :Smart Containers Mod] parsed items group 'food': [carrotsoup,sausages,queensjam,serpentstew,turnipstew,bloodpudding] (6)
+[Info   :Smart Containers Mod] parsed items group 'ingots': [copper,bronze,flametal,iron,silver,tin,blackmetal] (7)
+[Info   :Smart Containers Mod] parsed items group 'mushrooms': [mushroom,mushroomblue,mushroomyellow,mushroomcommon] (4)
+[Info   :Smart Containers Mod] parsed items group 'ore': [copperore,flametalore,ironore,silverore,tinore,ironscrap,blackmetalscrap] (7)
+[Info   :Smart Containers Mod] parsed items group 'rock': [stone,flint,obsidian] (3)
+[Info   :Smart Containers Mod] parsed items group 'userGroup1753858573': [charredbone,charcoalresin,proustitepowder,volturemeat,asksvinmeat,smokepuff,asksvincarrionribcage,vineberry,vineberryseeds,askbladder,fiddleheadfern,voltureegg,sulfurstone,bonemawmeat,morgenheart,charredskull,celestialfeather,trophyvolture,charredcogwheel,gemstonegreen,trophybonemaw,bonemawtooth,feathers,moltencore,askhide,morgensinew] (26)
+[Info   :Smart Containers Mod] parsed items group 'valuables': [ruby,coins,amber,amberpearl] (4)
+[Info   :Smart Containers Mod] parsed items group 'vegetables': [carrot,turnip] (2)
+[Info   :Smart Containers Mod] parsed items group 'wood': [wood,finewood,corewood,elderbark,roundlog] (5)
+[Info   :Smart Containers Mod] Cleaned up UI extensions.
+[Info   :Smart Containers Mod] Initialized UI extensions.
+[Info   :Smart Containers Mod] parsed PrefixedItemGroups : [trophy,mead,arrow,armor,cape,helmet,atgeir,bow,battleaxe,knife,mace,shield,sledge,spear,sword,tankard,club,mushroom] (18)
+[Info   :Smart Containers Mod] parsed PostfixedItemGroups: [cone,seeds,pelt,hide,berries] (5)
+[Info   :Smart Containers Mod] parsed items group 'berries': [blueberries,raspberries,cloudberries,honey] (4)
+[Info   :Smart Containers Mod] parsed items group 'cookedMeat': [cookedloxmeat,necktailgrilled,meatcooked,fishcooked,serpentmeatcooked] (5)
+[Info   :Smart Containers Mod] parsed items group 'food': [carrotsoup,sausages,queensjam,serpentstew,turnipstew,bloodpudding] (6)
+[Info   :Smart Containers Mod] parsed items group 'ingots': [copper,bronze,flametal,iron,silver,tin,blackmetal] (7)
+[Info   :Smart Containers Mod] parsed items group 'mushrooms': [mushroom,mushroomblue,mushroomyellow,mushroomcommon] (4)
+[Info   :Smart Containers Mod] parsed items group 'ore': [copperore,flametalore,ironore,silverore,tinore,ironscrap,blackmetalscrap] (7)
+[Info   :Smart Containers Mod] parsed items group 'rock': [stone,flint,obsidian] (3)
+[Info   :Smart Containers Mod] parsed items group 'userGroup1753858573': [charredbone,charcoalresin,proustitepowder,volturemeat,asksvinmeat,smokepuff,asksvincarrionribcage,vineberry,vineberryseeds,askbladder,fiddleheadfern,voltureegg,sulfurstone,bonemawmeat,morgenheart,charredskull,celestialfeather,trophyvolture,charredcogwheel,gemstonegreen,trophybonemaw,bonemawtooth,feathers,moltencore,askhide,morgensinew] (26)
+[Info   :Smart Containers Mod] parsed items group 'valuables': [ruby,coins,amber,amberpearl] (4)
+[Info   :Smart Containers Mod] parsed items group 'vegetables': [carrot,turnip] (2)
+[Info   :Smart Containers Mod] parsed items group 'wood': [wood,finewood,corewood,elderbark,roundlog] (5)
+[Info   :Smart Containers Mod] Cleaned up UI extensions.
+[Info   :Smart Containers Mod] Initialized UI extensions.
+[Info   :Smart Containers Mod] parsed PrefixedItemGroups : [trophy,mead,arrow,armor,cape,helmet,atgeir,bow,battleaxe,knife,mace,shield,sledge,spear,sword,tankard,club,mushroom] (18)
+[Info   :Smart Containers Mod] parsed PostfixedItemGroups: [cone,seeds,pelt,hide,berries] (5)
+[Info   :Smart Containers Mod] parsed items group 'berries': [blueberries,raspberries,cloudberries,honey] (4)
+[Info   :Smart Containers Mod] parsed items group 'cookedMeat': [cookedloxmeat,necktailgrilled,meatcooked,fishcooked,serpentmeatcooked] (5)
+[Info   :Smart Containers Mod] parsed items group 'food': [carrotsoup,sausages,queensjam,serpentstew,turnipstew,bloodpudding] (6)
+[Info   :Smart Containers Mod] parsed items group 'ingots': [copper,bronze,flametal,iron,silver,tin,blackmetal] (7)
+[Info   :Smart Containers Mod] parsed items group 'mushrooms': [mushroom,mushroomblue,mushroomyellow,mushroomcommon] (4)
+[Info   :Smart Containers Mod] parsed items group 'ore': [copperore,flametalore,ironore,silverore,tinore,ironscrap,blackmetalscrap] (7)
+[Info   :Smart Containers Mod] parsed items group 'rock': [stone,flint,obsidian] (3)
+[Info   :Smart Containers Mod] parsed items group 'userGroup1753858573': [charredbone,charcoalresin,proustitepowder,volturemeat,asksvinmeat,smokepuff,asksvincarrionribcage,vineberry,vineberryseeds,askbladder,fiddleheadfern,voltureegg,sulfurstone,bonemawmeat,morgenheart,charredskull,celestialfeather,trophyvolture,charredcogwheel,gemstonegreen,trophybonemaw,bonemawtooth,feathers,moltencore,askhide,morgensinew] (26)
+[Info   :Smart Containers Mod] parsed items group 'valuables': [ruby,coins,amber,amberpearl] (4)
+[Info   :Smart Containers Mod] parsed items group 'vegetables': [carrot,turnip] (2)
+[Info   :Smart Containers Mod] parsed items group 'wood': [wood,finewood,corewood,elderbark,roundlog] (5)
+[Info   :Smart Containers Mod] Cleaned up UI extensions.
+[Info   :Smart Containers Mod] Initialized UI extensions.
+[Info   :Smart Containers Mod] parsed PrefixedItemGroups : [trophy,mead,arrow,armor,cape,helmet,atgeir,bow,battleaxe,knife,mace,shield,sledge,spear,sword,tankard,club,mushroom] (18)
+[Info   :Smart Containers Mod] parsed PostfixedItemGroups: [cone,seeds,pelt,hide,berries] (5)
+[Info   :Smart Containers Mod] parsed items group 'berries': [blueberries,raspberries,cloudberries,honey] (4)
+[Info   :Smart Containers Mod] parsed items group 'cookedMeat': [cookedloxmeat,necktailgrilled,meatcooked,fishcooked,serpentmeatcooked] (5)
+[Info   :Smart Containers Mod] parsed items group 'food': [carrotsoup,sausages,queensjam,serpentstew,turnipstew,bloodpudding] (6)
+[Info   :Smart Containers Mod] parsed items group 'ingots': [copper,bronze,flametal,iron,silver,tin,blackmetal] (7)
+[Info   :Smart Containers Mod] parsed items group 'mushrooms': [mushroom,mushroomblue,mushroomyellow,mushroomcommon] (4)
+[Info   :Smart Containers Mod] parsed items group 'ore': [copperore,flametalore,ironore,silverore,tinore,ironscrap,blackmetalscrap] (7)
+[Info   :Smart Containers Mod] parsed items group 'rock': [stone,flint,obsidian] (3)
+[Info   :Smart Containers Mod] parsed items group 'userGroup1753858573': [charredbone,charcoalresin,proustitepowder,volturemeat,asksvinmeat,smokepuff,asksvincarrionribcage,vineberry,vineberryseeds,askbladder,fiddleheadfern,voltureegg,sulfurstone,bonemawmeat,morgenheart,charredskull,celestialfeather,trophyvolture,charredcogwheel,gemstonegreen,trophybonemaw,bonemawtooth,feathers,moltencore,askhide,morgensinew] (26)
+[Info   :Smart Containers Mod] parsed items group 'valuables': [ruby,coins,amber,amberpearl] (4)
+[Info   :Smart Containers Mod] parsed items group 'vegetables': [carrot,turnip] (2)
+[Info   :Smart Containers Mod] parsed items group 'wood': [wood,finewood,corewood,elderbark,roundlog] (5)
+[Info   :Smart Containers Mod] Cleaned up UI extensions.
+[Info   :Smart Containers Mod] Initialized UI extensions.
+[Info   :Smart Containers Mod] parsed PrefixedItemGroups : [trophy,mead,arrow,armor,cape,helmet,atgeir,bow,battleaxe,knife,mace,shield,sledge,spear,sword,tankard,club,mushroom] (18)
+[Info   :Smart Containers Mod] parsed PostfixedItemGroups: [cone,seeds,pelt,hide,berries] (5)
+[Info   :Smart Containers Mod] parsed items group 'berries': [blueberries,raspberries,cloudberries,honey] (4)
+[Info   :Smart Containers Mod] parsed items group 'cookedMeat': [cookedloxmeat,necktailgrilled,meatcooked,fishcooked,serpentmeatcooked] (5)
+[Info   :Smart Containers Mod] parsed items group 'food': [carrotsoup,sausages,queensjam,serpentstew,turnipstew,bloodpudding] (6)
+[Info   :Smart Containers Mod] parsed items group 'ingots': [copper,bronze,flametal,iron,silver,tin,blackmetal] (7)
+[Info   :Smart Containers Mod] parsed items group 'mushrooms': [mushroom,mushroomblue,mushroomyellow,mushroomcommon] (4)
+[Info   :Smart Containers Mod] parsed items group 'ore': [copperore,flametalore,ironore,silverore,tinore,ironscrap,blackmetalscrap] (7)
+[Info   :Smart Containers Mod] parsed items group 'rock': [stone,flint,obsidian] (3)
+[Info   :Smart Containers Mod] parsed items group 'userGroup1753858573': [charredbone,charcoalresin,proustitepowder,volturemeat,asksvinmeat,smokepuff,asksvincarrionribcage,vineberry,vineberryseeds,askbladder,fiddleheadfern,voltureegg,sulfurstone,bonemawmeat,morgenheart,charredskull,celestialfeather,trophyvolture,charredcogwheel,gemstonegreen,trophybonemaw,bonemawtooth,feathers,moltencore,askhide,morgensinew] (26)
+[Info   :Smart Containers Mod] parsed items group 'valuables': [ruby,coins,amber,amberpearl] (4)
+[Info   :Smart Containers Mod] parsed items group 'vegetables': [carrot,turnip] (2)
+[Info   :Smart Containers Mod] parsed items group 'wood': [wood,finewood,corewood,elderbark,roundlog] (5)
+[Info   :Smart Containers Mod] Cleaned up UI extensions.
+[Info   :Smart Containers Mod] Initialized UI extensions.
+[Info   :Smart Containers Mod] parsed PrefixedItemGroups : [trophy,mead,arrow,armor,cape,helmet,atgeir,bow,battleaxe,knife,mace,shield,sledge,spear,sword,tankard,club,mushroom] (18)
+[Info   :Smart Containers Mod] parsed PostfixedItemGroups: [cone,seeds,pelt,hide,berries] (5)
+[Info   :Smart Containers Mod] parsed items group 'berries': [blueberries,raspberries,cloudberries,honey] (4)
+[Info   :Smart Containers Mod] parsed items group 'cookedMeat': [cookedloxmeat,necktailgrilled,meatcooked,fishcooked,serpentmeatcooked] (5)
+[Info   :Smart Containers Mod] parsed items group 'food': [carrotsoup,sausages,queensjam,serpentstew,turnipstew,bloodpudding] (6)
+[Info   :Smart Containers Mod] parsed items group 'ingots': [copper,bronze,flametal,iron,silver,tin,blackmetal] (7)
+[Info   :Smart Containers Mod] parsed items group 'mushrooms': [mushroom,mushroomblue,mushroomyellow,mushroomcommon] (4)
+[Info   :Smart Containers Mod] parsed items group 'ore': [copperore,flametalore,ironore,silverore,tinore,ironscrap,blackmetalscrap] (7)
+[Info   :Smart Containers Mod] parsed items group 'rock': [stone,flint,obsidian] (3)
+[Info   :Smart Containers Mod] parsed items group 'userGroup1753858573': [charredbone,charcoalresin,proustitepowder,volturemeat,asksvinmeat,smokepuff,asksvincarrionribcage,vineberry,vineberryseeds,askbladder,fiddleheadfern,voltureegg,sulfurstone,bonemawmeat,morgenheart,charredskull,celestialfeather,trophyvolture,charredcogwheel,gemstonegreen,trophybonemaw,bonemawtooth,feathers,moltencore,askhide,morgensinew] (26)
+[Info   :Smart Containers Mod] parsed items group 'valuables': [ruby,coins,amber,amberpearl] (4)
+[Info   :Smart Containers Mod] parsed items group 'vegetables': [carrot,turnip] (2)
+[Info   :Smart Containers Mod] parsed items group 'wood': [wood,finewood,corewood,elderbark,roundlog] (5)
+[Info   :Smart Containers Mod] Cleaned up UI extensions.
+[Info   :Smart Containers Mod] Initialized UI extensions.
+[Info   :Smart Containers Mod] parsed PrefixedItemGroups : [trophy,mead,arrow,armor,cape,helmet,atgeir,bow,battleaxe,knife,mace,shield,sledge,spear,sword,tankard,club,mushroom] (18)
+[Info   :Smart Containers Mod] parsed PostfixedItemGroups: [cone,seeds,pelt,hide,berries] (5)
+[Info   :Smart Containers Mod] parsed items group 'berries': [blueberries,raspberries,cloudberries,honey] (4)
+[Info   :Smart Containers Mod] parsed items group 'cookedMeat': [cookedloxmeat,necktailgrilled,meatcooked,fishcooked,serpentmeatcooked] (5)
+[Info   :Smart Containers Mod] parsed items group 'food': [carrotsoup,sausages,queensjam,serpentstew,turnipstew,bloodpudding] (6)
+[Info   :Smart Containers Mod] parsed items group 'ingots': [copper,bronze,flametal,iron,silver,tin,blackmetal] (7)
+[Info   :Smart Containers Mod] parsed items group 'mushrooms': [mushroom,mushroomblue,mushroomyellow,mushroomcommon] (4)
+[Info   :Smart Containers Mod] parsed items group 'ore': [copperore,flametalore,ironore,silverore,tinore,ironscrap,blackmetalscrap] (7)
+[Info   :Smart Containers Mod] parsed items group 'rock': [stone,flint,obsidian] (3)
+[Info   :Smart Containers Mod] parsed items group 'userGroup1753858573': [charredbone,charcoalresin,proustitepowder,volturemeat,asksvinmeat,smokepuff,asksvincarrionribcage,vineberry,vineberryseeds,askbladder,fiddleheadfern,voltureegg,sulfurstone,bonemawmeat,morgenheart,charredskull,celestialfeather,trophyvolture,charredcogwheel,gemstonegreen,trophybonemaw,bonemawtooth,feathers,moltencore,askhide,morgensinew] (26)
+[Info   :Smart Containers Mod] parsed items group 'valuables': [ruby,coins,amber,amberpearl] (4)
+[Info   :Smart Containers Mod] parsed items group 'vegetables': [carrot,turnip] (2)
+[Info   :Smart Containers Mod] parsed items group 'wood': [wood,finewood,corewood,elderbark,roundlog] (5)
+[Info   :Smart Containers Mod] Cleaned up UI extensions.
+[Info   :Smart Containers Mod] Initialized UI extensions.
+[Info   :Smart Containers Mod] parsed PrefixedItemGroups : [trophy,mead,arrow,armor,cape,helmet,atgeir,bow,battleaxe,knife,mace,shield,sledge,spear,sword,tankard,club,mushroom] (18)
+[Info   :Smart Containers Mod] parsed PostfixedItemGroups: [cone,seeds,pelt,hide,berries] (5)
+[Info   :Smart Containers Mod] parsed items group 'berries': [blueberries,raspberries,cloudberries,honey] (4)
+[Info   :Smart Containers Mod] parsed items group 'cookedMeat': [cookedloxmeat,necktailgrilled,meatcooked,fishcooked,serpentmeatcooked] (5)
+[Info   :Smart Containers Mod] parsed items group 'food': [carrotsoup,sausages,queensjam,serpentstew,turnipstew,bloodpudding] (6)
+[Info   :Smart Containers Mod] parsed items group 'ingots': [copper,bronze,flametal,iron,silver,tin,blackmetal] (7)
+[Info   :Smart Containers Mod] parsed items group 'mushrooms': [mushroom,mushroomblue,mushroomyellow,mushroomcommon] (4)
+[Info   :Smart Containers Mod] parsed items group 'ore': [copperore,flametalore,ironore,silverore,tinore,ironscrap,blackmetalscrap] (7)
+[Info   :Smart Containers Mod] parsed items group 'rock': [stone,flint,obsidian] (3)
+[Info   :Smart Containers Mod] parsed items group 'userGroup1753858573': [charredbone,charcoalresin,proustitepowder,volturemeat,asksvinmeat,smokepuff,asksvincarrionribcage,vineberry,vineberryseeds,askbladder,fiddleheadfern,voltureegg,sulfurstone,bonemawmeat,morgenheart,charredskull,celestialfeather,trophyvolture,charredcogwheel,gemstonegreen,trophybonemaw,bonemawtooth,feathers,moltencore,askhide,morgensinew] (26)
+[Info   :Smart Containers Mod] parsed items group 'valuables': [ruby,coins,amber,amberpearl] (4)
+[Info   :Smart Containers Mod] parsed items group 'vegetables': [carrot,turnip] (2)
+[Info   :Smart Containers Mod] parsed items group 'wood': [wood,finewood,corewood,elderbark,roundlog] (5)
+[Info   :Smart Containers Mod] Cleaned up UI extensions.
+[Info   :Smart Containers Mod] Initialized UI extensions.
+[Info   :Smart Containers Mod] parsed PrefixedItemGroups : [trophy,mead,arrow,armor,cape,helmet,atgeir,bow,battleaxe,knife,mace,shield,sledge,spear,sword,tankard,club,mushroom] (18)
+[Info   :Smart Containers Mod] parsed PostfixedItemGroups: [cone,seeds,pelt,hide,berries] (5)
+[Info   :Smart Containers Mod] parsed items group 'berries': [blueberries,raspberries,cloudberries,honey] (4)
+[Info   :Smart Containers Mod] parsed items group 'cookedMeat': [cookedloxmeat,necktailgrilled,meatcooked,fishcooked,serpentmeatcooked] (5)
+[Info   :Smart Containers Mod] parsed items group 'food': [carrotsoup,sausages,queensjam,serpentstew,turnipstew,bloodpudding] (6)
+[Info   :Smart Containers Mod] parsed items group 'ingots': [copper,bronze,flametal,iron,silver,tin,blackmetal] (7)
+[Info   :Smart Containers Mod] parsed items group 'mushrooms': [mushroom,mushroomblue,mushroomyellow,mushroomcommon] (4)
+[Info   :Smart Containers Mod] parsed items group 'ore': [copperore,flametalore,ironore,silverore,tinore,ironscrap,blackmetalscrap] (7)
+[Info   :Smart Containers Mod] parsed items group 'rock': [stone,flint,obsidian] (3)
+[Info   :Smart Containers Mod] parsed items group 'userGroup1753858573': [charredbone,charcoalresin,proustitepowder,volturemeat,asksvinmeat,smokepuff,asksvincarrionribcage,vineberry,vineberryseeds,askbladder,fiddleheadfern,voltureegg,sulfurstone,bonemawmeat,morgenheart,charredskull,celestialfeather,trophyvolture,charredcogwheel,gemstonegreen,trophybonemaw,bonemawtooth,feathers,moltencore,askhide,morgensinew] (26)
+[Info   :Smart Containers Mod] parsed items group 'valuables': [ruby,coins,amber,amberpearl] (4)
+[Info   :Smart Containers Mod] parsed items group 'vegetables': [carrot,turnip] (2)
+[Info   :Smart Containers Mod] parsed items group 'wood': [wood,finewood,corewood,elderbark,roundlog] (5)
+[Info   :Smart Containers Mod] Cleaned up UI extensions.
+[Info   :Smart Containers Mod] Initialized UI extensions.
+[Info   :Smart Containers Mod] parsed PrefixedItemGroups : [trophy,mead,arrow,armor,cape,helmet,atgeir,bow,battleaxe,knife,mace,shield,sledge,spear,sword,tankard,club,mushroom] (18)
+[Info   :Smart Containers Mod] parsed PostfixedItemGroups: [cone,seeds,pelt,hide,berries] (5)
+[Info   :Smart Containers Mod] parsed items group 'berries': [blueberries,raspberries,cloudberries,honey] (4)
+[Info   :Smart Containers Mod] parsed items group 'cookedMeat': [cookedloxmeat,necktailgrilled,meatcooked,fishcooked,serpentmeatcooked] (5)
+[Info   :Smart Containers Mod] parsed items group 'food': [carrotsoup,sausages,queensjam,serpentstew,turnipstew,bloodpudding] (6)
+[Info   :Smart Containers Mod] parsed items group 'ingots': [copper,bronze,flametal,iron,silver,tin,blackmetal] (7)
+[Info   :Smart Containers Mod] parsed items group 'mushrooms': [mushroom,mushroomblue,mushroomyellow,mushroomcommon] (4)
+[Info   :Smart Containers Mod] parsed items group 'ore': [copperore,flametalore,ironore,silverore,tinore,ironscrap,blackmetalscrap] (7)
+[Info   :Smart Containers Mod] parsed items group 'rock': [stone,flint,obsidian] (3)
+[Info   :Smart Containers Mod] parsed items group 'userGroup1753858573': [charredbone,charcoalresin,proustitepowder,volturemeat,asksvinmeat,smokepuff,asksvincarrionribcage,vineberry,vineberryseeds,askbladder,fiddleheadfern,voltureegg,sulfurstone,bonemawmeat,morgenheart,charredskull,celestialfeather,trophyvolture,charredcogwheel,gemstonegreen,trophybonemaw,bonemawtooth,feathers,moltencore,askhide,morgensinew] (26)
+[Info   :Smart Containers Mod] parsed items group 'valuables': [ruby,coins,amber,amberpearl] (4)
+[Info   :Smart Containers Mod] parsed items group 'vegetables': [carrot,turnip] (2)
+[Info   :Smart Containers Mod] parsed items group 'wood': [wood,finewood,corewood,elderbark,roundlog] (5)
+[Info   :Smart Containers Mod] Cleaned up UI extensions.
+[Info   :Smart Containers Mod] Initialized UI extensions.
+[Info   :Smart Containers Mod] parsed PrefixedItemGroups : [trophy,mead,arrow,armor,cape,helmet,atgeir,bow,battleaxe,knife,mace,shield,sledge,spear,sword,tankard,club,mushroom] (18)
+[Info   :Smart Containers Mod] parsed PostfixedItemGroups: [cone,seeds,pelt,hide,berries] (5)
+[Info   :Smart Containers Mod] parsed items group 'berries': [blueberries,raspberries,cloudberries,honey] (4)
+[Info   :Smart Containers Mod] parsed items group 'cookedMeat': [cookedloxmeat,necktailgrilled,meatcooked,fishcooked,serpentmeatcooked] (5)
+[Info   :Smart Containers Mod] parsed items group 'food': [carrotsoup,sausages,queensjam,serpentstew,turnipstew,bloodpudding] (6)
+[Info   :Smart Containers Mod] parsed items group 'ingots': [copper,bronze,flametal,iron,silver,tin,blackmetal] (7)
+[Info   :Smart Containers Mod] parsed items group 'mushrooms': [mushroom,mushroomblue,mushroomyellow,mushroomcommon] (4)
+[Info   :Smart Containers Mod] parsed items group 'ore': [copperore,flametalore,ironore,silverore,tinore,ironscrap,blackmetalscrap] (7)
+[Info   :Smart Containers Mod] parsed items group 'rock': [stone,flint,obsidian] (3)
+[Info   :Smart Containers Mod] parsed items group 'userGroup1753858573': [charredbone,charcoalresin,proustitepowder,volturemeat,asksvinmeat,smokepuff,asksvincarrionribcage,vineberry,vineberryseeds,askbladder,fiddleheadfern,voltureegg,sulfurstone,bonemawmeat,morgenheart,charredskull,celestialfeather,trophyvolture,charredcogwheel,gemstonegreen,trophybonemaw,bonemawtooth,feathers,moltencore,askhide,morgensinew] (26)
+[Info   :Smart Containers Mod] parsed items group 'valuables': [ruby,coins,amber,amberpearl] (4)
+[Info   :Smart Containers Mod] parsed items group 'vegetables': [carrot,turnip] (2)
+[Info   :Smart Containers Mod] parsed items group 'wood': [wood,finewood,corewood,elderbark,roundlog] (5)
+[Info   :Smart Containers Mod] Cleaned up UI extensions.
+[Info   :Smart Containers Mod] Initialized UI extensions.
+[Info   :Smart Containers Mod] parsed PrefixedItemGroups : [trophy,mead,arrow,armor,cape,helmet,atgeir,bow,battleaxe,knife,mace,shield,sledge,spear,sword,tankard,club,mushroom] (18)
+[Info   :Smart Containers Mod] parsed PostfixedItemGroups: [cone,seeds,pelt,hide,berries] (5)
+[Info   :Smart Containers Mod] parsed items group 'berries': [blueberries,raspberries,cloudberries,honey] (4)
+[Info   :Smart Containers Mod] parsed items group 'cookedMeat': [cookedloxmeat,necktailgrilled,meatcooked,fishcooked,serpentmeatcooked] (5)
+[Info   :Smart Containers Mod] parsed items group 'food': [carrotsoup,sausages,queensjam,serpentstew,turnipstew,bloodpudding] (6)
+[Info   :Smart Containers Mod] parsed items group 'ingots': [copper,bronze,flametal,iron,silver,tin,blackmetal] (7)
+[Info   :Smart Containers Mod] parsed items group 'mushrooms': [mushroom,mushroomblue,mushroomyellow,mushroomcommon] (4)
+[Info   :Smart Containers Mod] parsed items group 'ore': [copperore,flametalore,ironore,silverore,tinore,ironscrap,blackmetalscrap] (7)
+[Info   :Smart Containers Mod] parsed items group 'rock': [stone,flint,obsidian] (3)
+[Info   :Smart Containers Mod] parsed items group 'userGroup1753858573': [charredbone,charcoalresin,proustitepowder,volturemeat,asksvinmeat,smokepuff,asksvincarrionribcage,vineberry,vineberryseeds,askbladder,fiddleheadfern,voltureegg,sulfurstone,bonemawmeat,morgenheart,charredskull,celestialfeather,trophyvolture,charredcogwheel,gemstonegreen,trophybonemaw,bonemawtooth,feathers,moltencore,askhide,morgensinew] (26)
+[Info   :Smart Containers Mod] parsed items group 'valuables': [ruby,coins,amber,amberpearl] (4)
+[Info   :Smart Containers Mod] parsed items group 'vegetables': [carrot,turnip] (2)
+[Info   :Smart Containers Mod] parsed items group 'wood': [wood,finewood,corewood,elderbark,roundlog] (5)
+[Info   : Unity Log] 07/31/2025 15:56:59: Activating default element Continue
+
+[Info   : Unity Log] 07/31/2025 15:57:00: Activating default element Continue
+
+[Info   : Unity Log] 07/31/2025 15:57:06: Activating default element Continue
+
+[Info   : Unity Log] 07/31/2025 15:57:10: Stopped music meadows at 4395417
+
+[Info   : Unity Log] 07/31/2025 15:57:10: Starting music meadows
+
+[Info   : Unity Log] 07/31/2025 15:57:10: Resumed music meadows at 4395417
+
+[Info   : Unity Log] 07/31/2025 15:57:13: Player -909980827 wants to open piece_chest_wood(Clone)   im: -909980827
+
+[Info   : Unity Log] 07/31/2025 15:57:13: Setting selected recipe 0
+
+[Info   : Unity Log] 07/31/2025 15:57:14: Queue unlock msg:$item_coal:Routed to another Chest
+
+[Info   : Unity Log] 07/31/2025 15:57:17: Activating default element Continue
+
+[Info   : Unity Log] Am I Host? True
+[Info   : Unity Log] Am I Host? True
+[Info   : Unity Log] 07/31/2025 15:57:18: Available space to current user: 114193551360. Saving is blocked if below: 104756650 bytes. Warnings are given if below: 209513300
+
+[Message:Extra Slots] Extra slots backup saved 7/31/2025 3:57:18 PM, world Manusia, items 15, size 2.0 kb, compressed 0.6 kb
+[Info   : Unity Log] 07/31/2025 15:57:18: Minimap: compressed mapData 8395374 => 23932 bytes
+
+[Info   : Unity Log] 07/31/2025 15:57:18: Cloud Save: 125547 bytes. /characters/dxdiagg.fch.new
+
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (125547 bytes)
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (126364 bytes)
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (125547 bytes)
+[Info   : Unity Log] 07/31/2025 15:57:18: Considering autobackup. World time: 522.18, short time: 7200, long time: 43200, backup count: 4
+
+[Info   : Unity Log] 07/31/2025 15:57:18: Skipping backup. World session not long enough.
+
+[Info   : Unity Log] 07/31/2025 15:57:18: Activating default element Continue
+
+[Info   : Unity Log] 07/31/2025 15:57:18: PrepareSave: clone done in 175ms
+
+[Info   : Unity Log] 07/31/2025 15:57:18: PrepareSave: ZDOExtraData.PrepareSave done in 180 ms
+
+[Info   : Unity Log] Am I Host? True
+[Info   : Unity Log] Am I Host? True
+[Info   : Unity Log] 07/31/2025 15:57:26: Available space to current user: 114193571840. Saving is blocked if below: 104708540 bytes. Warnings are given if below: 209417080
+
+[Info   : Unity Log] Am I Host? True
+[Info   : Unity Log] 07/31/2025 15:57:26: Game - OnApplicationQuit
+
+[Info   : Unity Log] Am I Host? True
+[Info   : Unity Log] 07/31/2025 15:57:26: Available space to current user: 114193571840. Saving is blocked if below: 104708540 bytes. Warnings are given if below: 209417080
+
+[Info   : Unity Log] 07/31/2025 15:57:26: Shutting down
+
+[Message:Extra Slots] Extra slots backup saved 7/31/2025 3:57:26 PM, world Manusia, items 15, size 2.0 kb, compressed 0.6 kb
+[Info   : Unity Log] 07/31/2025 15:57:26: Minimap: compressed mapData 8395374 => 23932 bytes
+
+[Info   : Unity Log] 07/31/2025 15:57:26: Cloud Save: 125547 bytes. /characters/dxdiagg.fch.new
+
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (125547 bytes)
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (125547 bytes)
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (125547 bytes)
+[Info   : Unity Log] 07/31/2025 15:57:26: Considering autobackup. World time: 522.18, short time: 7200, long time: 43200, backup count: 4
+
+[Info   : Unity Log] 07/31/2025 15:57:26: Skipping backup. World session not long enough.
+
+[Info   : Unity Log] 07/31/2025 15:57:26: ZNet Shutdown
+
+[Info   : Unity Log] 07/31/2025 15:57:27: PrepareSave: clone done in 177ms
+
+[Info   : Unity Log] 07/31/2025 15:57:27: PrepareSave: ZDOExtraData.PrepareSave done in 184 ms
+
+[Info   : Unity Log] 07/31/2025 15:57:30: Unloading unused assets
+
+[Info   : Unity Log] 07/31/2025 15:57:30: Sending disconnect msg
+
+[Info   : Unity Log] ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
+[Info   : Unity Log] 07/31/2025 15:57:30: Stopping build thread
+
+[Warning: Unity Log] 07/31/2025 15:57:33: Local player destroyed
+
+[Info   : Unity Log] 07/31/2025 15:57:33: ZNet OnDestroy
+
+[Info   : Unity Log] 07/31/2025 15:57:33: Net scene destroyed
+
+[Info   : Unity Log] 07/31/2025 15:57:33: Destroying loading indicator instance
+
+[Info   :Smart Containers Mod] Cleaned up UI extensions.
+[Info   : Unity Log] 07/31/2025 15:57:34: Steam manager on destroy
+
