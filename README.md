@@ -61,9 +61,9 @@ Ganti `{YourUserName}` dengan nama akun Windows kamu.
 
 ---
 
-## 🔧 Contoh Mod yang Disertakan *(opsional)*
+## 🔧 Contoh Mod yang Dipakai *(opsional)*
 
-Beberapa mod yang dapat disertakan atau digunakan bersama file ini:
+Beberapa mod yang digunakan bersama file ini:
 
 - https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/
 - https://thunderstore.io/c/valheim/p/Azumatt/Official_BepInEx_ConfigurationManager/
