@@ -1,7 +1,7 @@
 
 # 🌍 world_local_valheim
 
-**Koleksi world lokal dan mod (BepInEx) untuk game Valheim.**  
+**World lokal dan mod (BepInEx) untuk game Valheim.**  
 Repo ini dibuat sebagai arsip pribadi dan juga referensi publik bagi siapa pun yang ingin bermain Valheim dengan modifikasi khusus dan dunia lokal tertentu.
 
 ---
