@@ -69,6 +69,7 @@ Beberapa mod yang digunakan bersama file ini:
 - https://thunderstore.io/c/valheim/p/Azumatt/Official_BepInEx_ConfigurationManager/
 - https://thunderstore.io/c/valheim/p/ValheimModding/YamlDotNet/
 - https://thunderstore.io/c/valheim/p/shudnal/ExtraSlots/
+- https://thunderstore.io/c/valheim/p/shudnal/ExtraSlotsCustomSlots/
 - https://thunderstore.io/c/valheim/p/Vapok/AdventureBackpacks/
 - https://thunderstore.io/c/valheim/p/shudnal/HipLantern/
 - https://thunderstore.io/c/valheim/p/Smoothbrain/Sailing/
