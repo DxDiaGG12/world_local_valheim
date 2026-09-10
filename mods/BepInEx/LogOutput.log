@@ -1,147 +1,50 @@
-[Error  :   BepInEx] Unable to start Unity log writer
-[Message:   BepInEx] BepInEx 5.4.22.0 - valheim (9/10/2025 8:51:25 AM)
-[Message:   BepInEx] User is running BepInExPack Valheim version 5.4.2202 from Thunderstore
-[Info   :   BepInEx] Running under Unity v6000.0.46.16487356
+[Message:   BepInEx] BepInEx 5.4.23.5 - valheim (9/9/2026 8:10:16 PM)
+[Message:   BepInEx] User is running BepInExPack Valheim version 5.4.2350 from Thunderstore
+[Info   :   BepInEx] Running under Unity v6000.0.75.2503836
 [Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
 [Info   :   BepInEx] Supports SRE: True
 [Info   :   BepInEx] System platform: Bits64, Windows
 [Message:   BepInEx] Preloader started
-[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.23.5]
 [Info   :   BepInEx] 1 patcher plugin loaded
 [Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 15 plugins to load
-[Warning:   BepInEx] Plugin [AzuCraftyBoxes 1.8.5] targets a wrong version of BepInEx (5.4.23.3) and might not work until you update
-[Warning:   BepInEx] Plugin [Extra Slots 1.0.34] targets a wrong version of BepInEx (5.4.23.3) and might not work until you update
-[Info   :   BepInEx] Loading [Build Restriction Tweaks 0.3.0]
-[Info   :   BepInEx] Loading [AzuCraftyBoxes 1.8.5]
-[Info   :   BepInEx] Loading [VikingsDoSwim 1.3.8]
-[Info   : Unity Log] 09/11/2025 19:51:21: Loaded localization file #0 - 'localization' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:21: Loaded localization file #1 - 'localization_extra' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:21: Loaded localization file #2 - 'heightmap_message' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:21: Loaded localization file #3 - 'localization_witch' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:21: Loaded localization file #4 - 'localization_emotes' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:21: Loaded localization file #5 - 'localization_ashlands' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:21: Loaded localization file #6 - 'localization_captions' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:21: Loaded localization file #7 - 'localization_combatupdate' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:21: Loaded localization file #0 - 'localization' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:21: Loaded localization file #1 - 'localization_extra' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:21: Loaded localization file #2 - 'heightmap_message' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:21: Loaded localization file #3 - 'localization_witch' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:21: Loaded localization file #4 - 'localization_emotes' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:21: Loaded localization file #5 - 'localization_ashlands' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:21: Loaded localization file #6 - 'localization_captions' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:21: Loaded localization file #7 - 'localization_combatupdate' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:22: Loaded localization file #0 - 'localization' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:22: Loaded localization file #1 - 'localization_extra' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:22: Loaded localization file #2 - 'heightmap_message' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:22: Loaded localization file #3 - 'localization_witch' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:22: Loaded localization file #4 - 'localization_emotes' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:22: Loaded localization file #5 - 'localization_ashlands' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:22: Loaded localization file #6 - 'localization_captions' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:22: Loaded localization file #7 - 'localization_combatupdate' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:22: Loaded localization file #0 - 'localization' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:22: Loaded localization file #1 - 'localization_extra' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:22: Loaded localization file #2 - 'heightmap_message' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:22: Loaded localization file #3 - 'localization_witch' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:22: Loaded localization file #4 - 'localization_emotes' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:22: Loaded localization file #5 - 'localization_ashlands' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:22: Loaded localization file #6 - 'localization_captions' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:22: Loaded localization file #7 - 'localization_combatupdate' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:22: Loaded localization file #0 - 'localization' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:22: Loaded localization file #1 - 'localization_extra' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:22: Loaded localization file #2 - 'heightmap_message' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:22: Loaded localization file #3 - 'localization_witch' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:22: Loaded localization file #4 - 'localization_emotes' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:22: Loaded localization file #5 - 'localization_ashlands' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:22: Loaded localization file #6 - 'localization_captions' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:22: Loaded localization file #7 - 'localization_combatupdate' language: 'English'
-
-[Info   :   BepInEx] Loading [Configuration Manager 18.4.1]
-[Info   :   BepInEx] Loading [Dude, Where's My Portal 0.1.3]
-[Info   :   BepInEx] Loading [YamlDotNet Detector 1.0.0]
-[Info   :YamlDotNet Detector] YamlDotNet 16.0.0.0 loaded from plugins\YamlDotNet.dll
-[Info   :   BepInEx] Loading [Better Networking 2.3.2]
-[Info   :   BepInEx] Loading [Smart Containers Mod 1.7.0]
-[Info   :   BepInEx] Loading [Sailing 1.1.7]
-[Info   :   BepInEx] Loading [TargetPortal 1.2.0]
-[Info   :   BepInEx] Loading [DodgeShortcut 1.3.1]
-[Info   :   BepInEx] Loading [Extra Slots 1.0.34]
-[Info   :   BepInEx] Loading [Adventure Backpacks 1.7.10]
-[Info   :   BepInEx] Loading [Hip Lantern 1.0.20]
-[Info   :   BepInEx] Loading [Extra Slots Custom Slots 1.0.9]
+[Info   :   BepInEx] 0 plugins to load
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 09/11/2025 19:51:25: Using environment steamid 892970
+[Info   : Unity Log] 09/10/2026 13:32:00: Using environment steamid 892970
 
-[Info   : Unity Log] 09/11/2025 19:51:25: Using steam APPID:892970
+[Info   : Unity Log] 09/10/2026 13:32:00: Using steam APPID:892970
 
-[Info   : Unity Log] 09/11/2025 19:51:25: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Info   : Unity Log] 09/10/2026 13:32:00: Authentication:k_ESteamNetworkingAvailability_Attempting
 
-[Info   : Unity Log] 09/11/2025 19:51:25: Platform doesn't implement Process Lifetime Management! Don't initialize suspend manager.
+[Info   : Unity Log] 09/10/2026 13:32:00: 2026-09-10 13:32:00:887: Using environment steamid 892970
 
-[Info   : Unity Log] 09/11/2025 19:51:25: Initialized platform!
+[Info   : Unity Log] 09/10/2026 13:32:00: Platform doesn't implement Process Lifetime Management! Don't initialize suspend manager.
 
-[Info   : Unity Log] 09/11/2025 19:51:25: Platform doesn't implement matchmaking! Don't initialize matchmaking manager.
+[Info   : Unity Log] 09/10/2026 13:32:00: Initialized platform!
 
-[Info   : Unity Log] 09/11/2025 19:51:25: All files in local storage save data:
+[Info   : Unity Log] 09/10/2026 13:32:00: Platform doesn't implement matchmaking! Don't initialize matchmaking manager.
+
+[Info   : Unity Log] 09/10/2026 13:32:00: Initializing PrivilegeManager.
+
+[Info   : Unity Log] 09/10/2026 13:32:00: All files in local storage save data:
 C:/Users/MSII/AppData/LocalLow/IronGate/Valheim\adminlist.txt (40)
 C:/Users/MSII/AppData/LocalLow/IronGate/Valheim\bannedlist.txt (41)
 C:/Users/MSII/AppData/LocalLow/IronGate/Valheim\permittedlist.txt (43)
-C:/Users/MSII/AppData/LocalLow/IronGate/Valheim\Player-prev.log (15465)
-C:/Users/MSII/AppData/LocalLow/IronGate/Valheim\Player.log (5464)
+C:/Users/MSII/AppData/LocalLow/IronGate/Valheim\Player-prev.log (403305)
+C:/Users/MSII/AppData/LocalLow/IronGate/Valheim\Player.log (2776)
 
-[Info   : Unity Log] 09/11/2025 19:51:25: All files in platform save data:
+[Info   : Unity Log] 09/10/2026 13:32:00: All files in platform save data:
 characters/dxdiagg.fch.old (129914)
 characters/dxdiagg_backup_20240305-125857.fch (54415)
 characters/dxdiagg_backup_20240828-233957.fch (65889)
 characters/dxdiagg_backup_20241029-201311.fch (74348)
 serverlist/favorite (12)
 serverlist/favorite.old (12)
-serverlist/recent (203)
-serverlist/recent.old (203)
-worlds/Buatbulakbalik.db (1173856)
-worlds/Buatbulakbalik.fwl (55)
+serverlist/recent (231)
+serverlist/recent.old (231)
 worlds/Buatbulakbalik_backup_auto-20241103220125.fwl (55)
 worlds/General.db (1427273)
 worlds/General.fwl (48)
@@ -164,845 +67,144 @@ worlds/World1_backup_20241101-204953.fwl (47)
 worlds/World1_backup_auto-20240305124620.fwl (47)
 worlds/World1_backup_auto-20240306074437.db (1532377)
 worlds/World1_backup_auto-20240306074437.fwl (47)
-characters/dxdiagg_backup_auto-20250801210505.fch (129250)
-characters/dxdiagg_backup_auto-20250805201812.fch (129863)
-characters/dxdiagg_backup_auto-20250807220220.fch (129729)
-characters/dxdiagg_backup_auto-20250813155330.fch (129914)
+worlds/Buatbulakbalik_backup_20260613-223912.fwl (55)
+worlds/Buatbulakbalik_backup_20260613-223912.db (1173856)
+worlds/Buatbulakbalik_backup_auto-20260613223911.fwl (55)
+worlds/Buatbulakbalik_backup_auto-20260613223911.db (1177071)
+worlds/Buatbulakbalik_backup_auto-20260616223031.fwl (55)
+worlds/Buatbulakbalik_backup_auto-20260616223031.db (1177491)
+worlds/Buatbulakbalik_backup_20260909-220512.fwl (55)
+worlds/Buatbulakbalik_backup_20260909-220512.db (1235403)
+worlds/Buatbulakbalik/00_01__0_1.chunk (6)
+worlds/Buatbulakbalik/1e_1e__1_3.chunk (167684)
+worlds/Buatbulakbalik/1e_20__1_3.chunk (122932)
+worlds/Buatbulakbalik/20_1e__1_3.chunk (192847)
+worlds/Buatbulakbalik/20_20__1_3.chunk (146349)
+worlds/Buatbulakbalik/_main.3.chunks (65)
+worlds/Buatbulakbalik/_main.3.db2 (145477)
+worlds/Buatbulakbalik/_main.3.fwl2 (116)
+worlds/Buatbulakbalik/_main.3.ok (4)
 
-[Info   : Unity Log] 09/11/2025 19:51:25: Set background loading budget to Low
+[Info   : Unity Log] 09/10/2026 13:32:00: Initializing preferences provider...
 
-[Info   :Smart Containers Mod] parsed PrefixedItemGroups : [trophy,mead,arrow,armor,cape,helmet,atgeir,bow,battleaxe,knife,mace,shield,sledge,spear,sword,tankard,club,mushroom] (18)
-[Info   :Smart Containers Mod] parsed PostfixedItemGroups: [cone,seeds,pelt,hide,berries] (5)
-[Info   :Smart Containers Mod] parsed items group 'berries': [blueberries,raspberries,cloudberries,honey] (4)
-[Info   :Smart Containers Mod] parsed items group 'cookedMeat': [cookedloxmeat,necktailgrilled,meatcooked,fishcooked,serpentmeatcooked] (5)
-[Info   :Smart Containers Mod] parsed items group 'food': [carrotsoup,sausages,queensjam,serpentstew,turnipstew,bloodpudding] (6)
-[Info   :Smart Containers Mod] parsed items group 'ingots': [copper,bronze,flametal,iron,silver,tin,blackmetal] (7)
-[Info   :Smart Containers Mod] parsed items group 'mushrooms': [mushroom,mushroomblue,mushroomyellow,mushroomcommon] (4)
-[Info   :Smart Containers Mod] parsed items group 'ore': [copperore,flametalore,ironore,silverore,tinore,ironscrap,blackmetalscrap] (7)
-[Info   :Smart Containers Mod] parsed items group 'rock': [stone,flint,obsidian] (3)
-[Info   :Smart Containers Mod] parsed items group 'userGroup1753858573': [charredbone,charcoalresin,proustitepowder,volturemeat,asksvinmeat,smokepuff,asksvincarrionribcage,vineberry,vineberryseeds,askbladder,fiddleheadfern,voltureegg,sulfurstone,bonemawmeat,morgenheart,charredskull,celestialfeather,trophyvolture,charredcogwheel,gemstonegreen,trophybonemaw,bonemawtooth,feathers,moltencore,askhide,morgensinew] (26)
-[Info   :Smart Containers Mod] parsed items group 'valuables': [ruby,coins,amber,amberpearl] (4)
-[Info   :Smart Containers Mod] parsed items group 'vegetables': [carrot,turnip] (2)
-[Info   :Smart Containers Mod] parsed items group 'wood': [wood,finewood,corewood,elderbark,roundlog] (5)
-[Info   : Unity Log] 09/11/2025 19:51:25: Loading first scene
+[Info   : Unity Log] 09/10/2026 13:32:00: No preference provider available for this platform!
 
-[Info   :AzuCraftyBoxes] Configuration reload complete.
-[Warning: Unity Log] 09/11/2025 19:51:25: Fetching PlatformPrefs 'GuiScale' before loading defaults
+[Info   : Unity Log] 09/10/2026 13:32:00: Set background loading budget to Low
 
-[Warning: Unity Log] 09/11/2025 19:51:25: Fetching PlatformPrefs 'GuiScale' before loading defaults
+[Info   : Unity Log] 09/10/2026 13:32:00: Loading first scene!
 
-[Warning: Unity Log] 09/11/2025 19:51:25: Fetching PlatformPrefs 'ControllerLayout' before loading defaults
+[Info   : Unity Log] 09/10/2026 13:32:00: Fast load set to True
 
-[Warning: Unity Log] 09/11/2025 19:51:25: Fetching PlatformPrefs 'ControllerLayout' before loading defaults
+[Info   : Unity Log] 09/10/2026 13:32:00: Fast load counter set to 1
 
-[Info   : Unity Log] 09/11/2025 19:51:25: Initializing loading indicator instance
+[Info   : Unity Log] 09/10/2026 13:32:00: Preferences initialized! Activating first scene!
 
-[Warning: Unity Log] 09/11/2025 19:51:25: Fetching PlatformPrefs 'GuiScale' before loading defaults
+[Info   : Unity Log] 09/10/2026 13:32:01: Loading: Starting to load scene: start.unity (169d7618616154c03be07e9ad3af5893)
 
-[Info   : Unity Log] 09/11/2025 19:51:25: Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
+[Info   : Unity Log] 09/10/2026 13:32:01: Fast load counter set to 2
 
-[Info   : Unity Log] 09/11/2025 19:51:25: Set background loading budget to Normal
+[Info   : Unity Log] 09/10/2026 13:32:01: Set background loading budget to Normal
 
-[Info   : Unity Log] 09/11/2025 19:51:30: Set background loading budget to High
+[Info   : Unity Log] 09/10/2026 13:32:01: Loaded localization file #0 - 'localization' language: 'English'
 
-[Info   : Unity Log] 09/11/2025 19:51:30: GPU Device: 10DE:25A2 (NVIDIA)
+[Info   : Unity Log] 09/10/2026 13:32:01: Loaded localization file #1 - 'localization_extra' language: 'English'
 
-[Info   : Unity Log] 09/11/2025 19:51:31: Destroying loading indicator instance
+[Info   : Unity Log] 09/10/2026 13:32:01: Loaded localization file #2 - 'heightmap_message' language: 'English'
 
-[Info   : Unity Log] 09/11/2025 19:51:31: Set background loading budget to Low
+[Info   : Unity Log] 09/10/2026 13:32:01: Loaded localization file #3 - 'localization_witch' language: 'English'
+
+[Info   : Unity Log] 09/10/2026 13:32:01: Loaded localization file #4 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 09/10/2026 13:32:01: Loaded localization file #5 - 'localization_deepnorth' language: 'English'
+
+[Info   : Unity Log] 09/10/2026 13:32:01: Loaded localization file #6 - 'localization_captions' language: 'English'
+
+[Info   : Unity Log] 09/10/2026 13:32:01: Loaded localization file #7 - 'localization_warriortitles' language: 'English'
+
+[Info   : Unity Log] 09/10/2026 13:32:01: Loaded localization file #8 - 'localization_combatupdate' language: 'English'
+
+[Info   : Unity Log] 09/10/2026 13:32:01: Loaded localization file #9 - 'localization_ps' language: 'English'
+
+[Info   : Unity Log] 09/10/2026 13:32:01: Loaded localization file #10 - 'localization_celebrationupdate' language: 'English'
+
+[Info   : Unity Log] 09/10/2026 13:32:01: Loaded localization file #11 - 'localization_xbox' language: 'English'
+
+[Info   : Unity Log] 09/10/2026 13:32:01: Loaded localization file #12 - 'localization_switch' language: 'English'
+
+[Info   : Unity Log] 09/10/2026 13:32:01: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 09/10/2026 13:32:01: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 09/10/2026 13:32:01: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 09/10/2026 13:32:01: Loaded localization file #3 - 'localization_witch' language: 'English'
+
+[Info   : Unity Log] 09/10/2026 13:32:01: Loaded localization file #4 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 09/10/2026 13:32:01: Loaded localization file #5 - 'localization_deepnorth' language: 'English'
+
+[Info   : Unity Log] 09/10/2026 13:32:01: Loaded localization file #6 - 'localization_captions' language: 'English'
+
+[Info   : Unity Log] 09/10/2026 13:32:01: Loaded localization file #7 - 'localization_warriortitles' language: 'English'
+
+[Info   : Unity Log] 09/10/2026 13:32:01: Loaded localization file #8 - 'localization_combatupdate' language: 'English'
+
+[Info   : Unity Log] 09/10/2026 13:32:01: Loaded localization file #9 - 'localization_ps' language: 'English'
+
+[Info   : Unity Log] 09/10/2026 13:32:01: Loaded localization file #10 - 'localization_celebrationupdate' language: 'English'
+
+[Info   : Unity Log] 09/10/2026 13:32:01: Loaded localization file #11 - 'localization_xbox' language: 'English'
+
+[Info   : Unity Log] 09/10/2026 13:32:01: Loaded localization file #12 - 'localization_switch' language: 'English'
+
+[Info   : Unity Log] 09/10/2026 13:32:01: Fast load counter set to 1
+
+[Info   : Unity Log] 09/10/2026 13:32:05: Set background loading budget to High
+
+[Info   : Unity Log] 09/10/2026 13:32:05: GPU Device: 10DE:25A2 (NVIDIA)
+
+[Info   : Unity Log] 09/10/2026 13:32:11: Loading: Done, Total time: -9.6620509
+
+[Info   : Unity Log] 09/10/2026 13:32:11: Set background loading budget to Low
 
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Warning: Unity Log] 09/11/2025 19:51:31: Missing audio clip in music respawn
+[Warning: Unity Log] 09/10/2026 13:32:11: Missing audio clip in music respawn
 
-[Info   : Unity Log] 09/11/2025 19:51:34: Loaded localization file #0 - 'localization' language: 'English'
+[Info   : Unity Log] 09/10/2026 13:32:11: Steam initialized, persona:DxDiaGG
 
-[Info   : Unity Log] 09/11/2025 19:51:34: Loaded localization file #1 - 'localization_extra' language: 'English'
+[Info   : Unity Log] 09/10/2026 13:32:11: Valheim version: 1.0.7 (network version 39)
 
-[Info   : Unity Log] 09/11/2025 19:51:34: Loaded localization file #2 - 'heightmap_message' language: 'English'
+[Info   : Unity Log] 09/10/2026 13:32:11: Worldgenerator version setup:2
 
-[Info   : Unity Log] 09/11/2025 19:51:34: Loaded localization file #3 - 'localization_witch' language: 'English'
+[Info   : Unity Log] 09/10/2026 13:32:11: Render threading mode:LegacyJobified
 
-[Info   : Unity Log] 09/11/2025 19:51:34: Loaded localization file #4 - 'localization_emotes' language: 'English'
+[Info   : Unity Log] 09/10/2026 13:32:11: Checking for installed DLCs
 
-[Info   : Unity Log] 09/11/2025 19:51:34: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+[Info   : Unity Log] 09/10/2026 13:32:11: DLC:beta installed:False
 
-[Info   : Unity Log] 09/11/2025 19:51:34: Loaded localization file #6 - 'localization_captions' language: 'English'
+[Info   : Unity Log] 09/10/2026 13:32:11: SaveSystem.Reload for Character is done [22ms]
 
-[Info   : Unity Log] 09/11/2025 19:51:34: Loaded localization file #7 - 'localization_combatupdate' language: 'English'
+[Info   : Unity Log] 09/10/2026 13:32:11: SaveSystem.Reload for World is done [120ms]
 
-[Info   : Unity Log] 09/11/2025 19:51:34: Loaded localization file #0 - 'localization' language: 'English'
+[Info   : Unity Log] 09/10/2026 13:32:12: Playing cinematic: $cinematics_intro
 
-[Info   : Unity Log] 09/11/2025 19:51:34: Loaded localization file #1 - 'localization_extra' language: 'English'
+[Info   : Unity Log] 09/10/2026 13:32:12: Sending PlayFab login request (attempt 1)
 
-[Info   : Unity Log] 09/11/2025 19:51:34: Loaded localization file #2 - 'heightmap_message' language: 'English'
+[Info   : Unity Log] 09/10/2026 13:32:12: Session auth respons callback
 
-[Info   : Unity Log] 09/11/2025 19:51:34: Loaded localization file #3 - 'localization_witch' language: 'English'
+[Info   : Unity Log] 09/10/2026 13:32:12: Fast load set to False
 
-[Info   : Unity Log] 09/11/2025 19:51:34: Loaded localization file #4 - 'localization_emotes' language: 'English'
+[Info   : Unity Log] 09/10/2026 13:32:12: Fast load counter set to 0
 
-[Info   : Unity Log] 09/11/2025 19:51:34: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+[Info   : Unity Log] 09/10/2026 13:32:13: Logged in PlayFab user via Steam auth session ticket
 
-[Info   : Unity Log] 09/11/2025 19:51:34: Loaded localization file #6 - 'localization_captions' language: 'English'
+[Info   : Unity Log] 09/10/2026 13:32:13: PlayFab local entity ID is E61C9E801C1AEA4F
 
-[Info   : Unity Log] 09/11/2025 19:51:34: Loaded localization file #7 - 'localization_combatupdate' language: 'English'
+[Info   : Unity Log] 09/10/2026 13:32:13: Released session ticket
 
-[Info   : Unity Log] 09/11/2025 19:51:34: Loaded localization file #0 - 'localization' language: 'English'
+[Info   : Unity Log] 09/10/2026 13:32:18: Starting music menu
 
-[Info   : Unity Log] 09/11/2025 19:51:34: Loaded localization file #1 - 'localization_extra' language: 'English'
+[Info   : Unity Log] 09/10/2026 13:32:21: Stopping build thread
 
-[Info   : Unity Log] 09/11/2025 19:51:34: Loaded localization file #2 - 'heightmap_message' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:34: Loaded localization file #3 - 'localization_witch' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:34: Loaded localization file #4 - 'localization_emotes' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:34: Loaded localization file #5 - 'localization_ashlands' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:34: Loaded localization file #6 - 'localization_captions' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:34: Loaded localization file #7 - 'localization_combatupdate' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:34: Steam initialized, persona:DxDiaGG
-
-[Info   : Unity Log] 09/11/2025 19:51:34: Using default prefs
-
-[Info   : Unity Log] 09/11/2025 19:51:34: Valheim version: 0.221.4 (network version 35)
-
-[Info   : Unity Log] Trying to set graphic mode to 'Custom'
-[Info   : Unity Log] Graphic mode 'Custom' is not or no longer supported. Fallback to default mode for platform...
-[Info   : Unity Log] Graphic mode 'Custom' applied!
-[Info   : Unity Log] 09/11/2025 19:51:34: Worldgenerator version setup:2
-
-[Info   : Unity Log] 09/11/2025 19:51:34: Render threading mode:MultiThreaded
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Checking for installed DLCs
-
-[Info   : Unity Log] 09/11/2025 19:51:35: DLC:beta installed:False
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Loaded localization file #0 - 'localization' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Loaded localization file #1 - 'localization_extra' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Loaded localization file #2 - 'heightmap_message' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Loaded localization file #3 - 'localization_witch' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Loaded localization file #4 - 'localization_emotes' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Loaded localization file #5 - 'localization_ashlands' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Loaded localization file #6 - 'localization_captions' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Loaded localization file #7 - 'localization_combatupdate' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Loaded localization file #0 - 'localization' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Loaded localization file #1 - 'localization_extra' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Loaded localization file #2 - 'heightmap_message' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Loaded localization file #3 - 'localization_witch' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Loaded localization file #4 - 'localization_emotes' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Loaded localization file #5 - 'localization_ashlands' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Loaded localization file #6 - 'localization_captions' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Loaded localization file #7 - 'localization_combatupdate' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Loaded localization file #0 - 'localization' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Loaded localization file #1 - 'localization_extra' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Loaded localization file #2 - 'heightmap_message' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Loaded localization file #3 - 'localization_witch' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Loaded localization file #4 - 'localization_emotes' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Loaded localization file #5 - 'localization_ashlands' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Loaded localization file #6 - 'localization_captions' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Loaded localization file #7 - 'localization_combatupdate' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Sending PlayFab login request (attempt 1)
-
-[Info   : Unity Log] 09/11/2025 19:51:35: Starting music menu
-
-[Info   : Unity Log] 09/11/2025 19:51:36: Session auth respons callback
-
-[Info   : Unity Log] 09/11/2025 19:51:37: Logged in PlayFab user via Steam auth session ticket
-
-[Info   : Unity Log] 09/11/2025 19:51:37: PlayFab local entity ID is E61C9E801C1AEA4F
-
-[Info   : Unity Log] 09/11/2025 19:51:37: Released session ticket
-
-[Info   : Unity Log] 09/11/2025 19:51:43: show character selection
-
-[Info   : Unity Log] 09/11/2025 19:51:44: OnCharacterStart
-
-[Info   : Unity Log] 09/11/2025 19:51:47: Loading main scene
-
-[Info   : Unity Log] 09/11/2025 19:51:47: Audioman already exist, destroying self
-
-[Info   : Unity Log] 09/11/2025 19:51:47: Steam initialized, persona:DxDiaGG
-
-[Info   : Unity Log] 09/11/2025 19:51:47: Using default prefs
-
-[Info   : Unity Log] 09/11/2025 19:51:47: Loading player profile dxdiagg
-
-[Info   : Unity Log] 09/11/2025 19:51:47: isModded: True
-
-[Info   : Unity Log] 09/11/2025 19:51:47: Zonesystem Awake 1256
-
-[Info   : Unity Log] 09/11/2025 19:51:47: DungeonDB Awake 1256
-
-[Info   : Unity Log] 09/11/2025 19:51:47: Steam initialized, persona:DxDiaGG
-
-[Info   : Unity Log] 09/11/2025 19:51:47: Worldgenerator version setup:1
-
-[Info   : Unity Log] Registered 'Azumatt.AzuCraftyBoxes ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'blacks7ar.VikingsDoSwim ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'org.bepinex.plugins.sailing ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'TargetPortal ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'shudnal.ExtraSlots ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'vapok.mods.adventurebackpacks ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'vapok.mods.adventurebackpacks ItemManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'shudnal.HipLantern ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'shudnal.ExtraSlotsCustomSlots ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] 09/11/2025 19:51:50: Loaded localization file #0 - 'localization' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Loaded localization file #1 - 'localization_extra' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Loaded localization file #2 - 'heightmap_message' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Loaded localization file #3 - 'localization_witch' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Loaded localization file #4 - 'localization_emotes' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Loaded localization file #5 - 'localization_ashlands' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Loaded localization file #6 - 'localization_captions' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Loaded localization file #7 - 'localization_combatupdate' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Loaded localization file #0 - 'localization' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Loaded localization file #1 - 'localization_extra' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Loaded localization file #2 - 'heightmap_message' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Loaded localization file #3 - 'localization_witch' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Loaded localization file #4 - 'localization_emotes' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Loaded localization file #5 - 'localization_ashlands' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Loaded localization file #6 - 'localization_captions' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Loaded localization file #7 - 'localization_combatupdate' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Loaded localization file #0 - 'localization' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Loaded localization file #1 - 'localization_extra' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Loaded localization file #2 - 'heightmap_message' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Loaded localization file #3 - 'localization_witch' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Loaded localization file #4 - 'localization_emotes' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Loaded localization file #5 - 'localization_ashlands' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Loaded localization file #6 - 'localization_captions' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Loaded localization file #7 - 'localization_combatupdate' language: 'English'
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Checking for installed DLCs
-
-[Info   : Unity Log] 09/11/2025 19:51:50: DLC:beta installed:False
-
-[Info   :DodgeShortcut] Destroying child key_bkg (2) of DodgeKeyHint
-[Info   :DodgeShortcut] Destroying child plus of DodgeKeyHint
-[Info   :DodgeShortcut] Successfully modified Dodge Key Hint prefab.
-[Info   :DodgeShortcut] Updated Dodge Key Hint!
-[Info   :Smart Containers Mod] Cleaned up UI extensions.
-[Info   : Unity Log] 09/11/2025 19:51:50: Zonesystem Start 1256
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Added 25 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
-
-[Info   : Unity Log] 09/11/2025 19:51:50: DungeonDB Start 1256
-
-[Info   : Unity Log] 09/11/2025 19:51:50: ZRpc timeout set to 30s 
-
-[Info   : Unity Log] 09/11/2025 19:51:50: ZNET START
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Load world: Manusia (Manusia)
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Loading 1326858 zdos, my sessionID: 230003995, data version: 35
-
-[Info   : Unity Log] 09/11/2025 19:51:50: Loading in ZDOs
-
-[Info   : Unity Log] 09/11/2025 19:51:52: Adding to Dictionary
-
-[Info   : Unity Log] 09/11/2025 19:51:52: Adding to Sectors
-
-[Info   : Unity Log] 09/11/2025 19:51:52: Connecting Portals, Spawners & ZSyncTransforms
-
-[Info   : Unity Log] ConnectSpawners => Connected 456 spawners and 2067 'done' spawners.
-[Info   : Unity Log] 09/11/2025 19:51:52: Loaded 11160 locations
-
-[Info   : Unity Log] 09/11/2025 19:51:52: Unloading unused assets
-
-[Info   : Unity Log] 09/11/2025 19:51:53: Starting respawn
-
-[Info   : Unity Log] 09/11/2025 19:51:59: Generating new world minimap done [6264ms]
-
-[Info   : Unity Log] 09/11/2025 19:51:59: Minimap: unpacking compressed mapData 26515 => 8395633 bytes
-
-[Info   : Unity Log] 09/11/2025 19:51:59: tip:$loadscreen_tip24
-
-[Info   : Unity Log] 09/11/2025 19:51:59: Initializing loading indicator instance
-
-[Info   : Unity Log] 09/11/2025 19:52:00: Setting up generating loading indicator
-
-[Info   : Unity Log] 09/11/2025 19:52:00: Generating locations
-
-[Info   : Unity Log] 09/11/2025 19:52:00: Old location found StartTemple.prefab (24e6c3b1f9d00f144b1d778748d8d546) x 1
-
-[Info   : Unity Log] 09/11/2025 19:52:00: Old location found Eikthyrnir.prefab (b09dd9b640db65246ad065276ef57ca5) x 3
-
-[Info   : Unity Log] 09/11/2025 19:52:00: Old location found GoblinKing.prefab (945d32de22a22dd499949784f631bbad) x 1
-
-[Info   : Unity Log] 09/11/2025 19:52:00: Old location found GDKing.prefab (9358235c6d93eee42b642a8fe40bac82) x 2
-
-[Info   : Unity Log] 09/11/2025 19:52:00: Old location found Bonemass.prefab (dc4942ee971061b47be02d0944f45a03) x 3
-
-[Info   : Unity Log] 09/11/2025 19:52:00: Old location found SunkenCrypt4.prefab (e4b3e7092e0d4c040a0937d6bf28673a) x 59
-
-[Info   : Unity Log] 09/11/2025 19:52:00: Old location found Vendor_BlackForest.prefab (8ccfdadafafce5f4a9441f2f3926c14c) x 1
-
-[Info   : Unity Log] 09/11/2025 19:52:00: Old location found Dragonqueen.prefab (419aea7c570a12b4fa9da37fdd828e79) x 1
-
-[Info   : Unity Log] 09/11/2025 19:52:00: Old location found Mistlands_Giant1.prefab (0dc0a24cf3fec9d418f56ae9e00d6113) x 28
-
-[Warning: Unity Log] 09/11/2025 19:52:05: Failed to place all Mistlands_Giant1, placed 201 out of 350
-
-[Info   : Unity Log] 09/11/2025 19:52:05: Old location found Mistlands_Giant2.prefab (064b43c4bfd88d84a991ccc502ffe8bc) x 9
-
-[Warning: Unity Log] 09/11/2025 19:52:09: Failed to place all Mistlands_Giant2, placed 54 out of 100
-
-[Info   : Unity Log] 09/11/2025 19:52:09: Old location found Mistlands_DvergrTownEntrance1.prefab (b46cfbfa13219f54ea2246f4076c0d78) x 22
-
-[Info   : Unity Log] 09/11/2025 19:52:10: Old location found Mistlands_DvergrTownEntrance2.prefab (cf7fdbc5b9fec884cb1246a4beaeed6e) x 13
-
-[Warning: Unity Log] 09/11/2025 19:52:17: Failed to place all Mistlands_DvergrTownEntrance2, placed 114 out of 120
-
-[Info   : Unity Log] 09/11/2025 19:52:17: Old location found Mistlands_DvergrBossEntrance1.prefab (c91def09a4c69ed46aadf34d48f7ff03) x 1
-
-[Info   : Unity Log] 09/11/2025 19:52:17: Old location found Hildir_cave.prefab (a859725952215ba4bb2915451a24678d) x 2
-
-[Info   : Unity Log] 09/11/2025 19:52:17: Old location found Hildir_camp.prefab (9249a557aea93964abd4688780f5c386) x 1
-
-[Info   : Unity Log] 09/11/2025 19:52:17: Old location found Hildir_crypt.prefab (43c343e3473f40548ad698a09840210c) x 2
-
-[Info   : Unity Log] 09/11/2025 19:52:17: Old location found Hildir_plainsfortress.prefab (e2244e316d0fbf842a676c36732310d5) x 1
-
-[Info   : Unity Log] 09/11/2025 19:52:17: Old location found FaderLocation.prefab (16c4cecbf305a264baacc434a3176e95) x 2
-
-[Info   : Unity Log] 09/11/2025 19:52:17: Old location found PlaceofMystery1.prefab (c0603360ebd7cc240a02b4f0af690e04) x 1
-
-[Info   : Unity Log] 09/11/2025 19:52:17: Old location found PlaceofMystery2.prefab (e61f76d6b137ba14696c7af74c665fe4) x 1
-
-[Info   : Unity Log] 09/11/2025 19:52:17: Old location found PlaceofMystery3.prefab (205ee1752beafcf48a68fc560e4b2e4b) x 1
-
-[Info   : Unity Log] 09/11/2025 19:52:17: Old location found CharredFortress.prefab (74625fed1b4f96740be053e3eeec2c3f) x 18
-
-[Info   : Unity Log] 09/11/2025 19:52:19: Old location found CharredStone_Spawner.prefab (516270bc2b314f44f8f4930cd4021144) x 175
-
-[Info   : Unity Log] 09/11/2025 19:52:20: Old location found BogWitch_Camp.prefab (33d9ee727daa8894991ffd3385a5261a) x 1
-
-[Info   : Unity Log] 09/11/2025 19:52:20: Old location found StoneCircle.prefab (5331b07f2f41b914bb3b638c751ff578) x 15
-
-[Info   : Unity Log] 09/11/2025 19:52:20: Old location found Greydwarf_camp1.prefab (f6ac84934d9d52d4584a67587d09b820) x 85
-
-[Info   : Unity Log] 09/11/2025 19:52:20: Old location found Runestone_Greydwarfs.prefab (e065c9977e4dfae4f85a10d93b25248b) x 45
-
-[Info   : Unity Log] 09/11/2025 19:52:20: Old location found Grave1.prefab (d683fba891bec854d99bd3592c3aec5c) x 45
-
-[Info   : Unity Log] 09/11/2025 19:52:21: Old location found SwampRuin1.prefab (85cf2a6e73ba1434793789d121001bf5) x 9
-
-[Info   : Unity Log] 09/11/2025 19:52:21: Old location found SwampRuin2.prefab (999f31d6de300ca4aada634614b80e33) x 10
-
-[Info   : Unity Log] 09/11/2025 19:52:21: Old location found FireHole.prefab (4718fb2f4b7c3c248be8dbdc92174119) x 22
-
-[Info   : Unity Log] 09/11/2025 19:52:21: Old location found Runestone_Draugr.prefab (b57a3068c3912314f945f979f4bbe3c1) x 24
-
-[Info   : Unity Log] 09/11/2025 19:52:21: Old location found Crypt2.prefab (04bf1b018eec22e4f9a39639feda6355) x 57
-
-[Info   : Unity Log] 09/11/2025 19:52:21: Old location found Ruin1.prefab (90fa7d580c5e82646a0478f2fe9cf630) x 59
-
-[Info   : Unity Log] 09/11/2025 19:52:21: Old location found Ruin2.prefab (fb4373cebc9d200479118a64ac7971a7) x 56
-
-[Info   : Unity Log] 09/11/2025 19:52:21: Old location found StoneHouse3.prefab (187bf21ca9453aa41bcb65b9243e4903) x 47
-
-[Info   : Unity Log] 09/11/2025 19:52:21: Old location found StoneHouse4.prefab (699d87ed336e23947afed26af461bfd9) x 46
-
-[Info   : Unity Log] 09/11/2025 19:52:22: Old location found Ruin3.prefab (93702a745f5781d419d5d9c49c4c7c4c) x 12
-
-[Info   : Unity Log] 09/11/2025 19:52:22: Old location found GoblinCamp2.prefab (09d34c421caabec479355913450d9b0e) x 55
-
-[Info   : Unity Log] 09/11/2025 19:52:23: Old location found StoneTower1.prefab (a2594667f2c6f4a4495255bbc3860a2b) x 12
-
-[Info   : Unity Log] 09/11/2025 19:52:23: Old location found StoneTower3.prefab (fbe51999292eeb648afd08a53d96d033) x 13
-
-[Info   : Unity Log] 09/11/2025 19:52:24: Old location found StoneHenge1.prefab (1c66312e683f706419681762b3382429) x 1
-
-[Info   : Unity Log] 09/11/2025 19:52:24: Old location found StoneHenge2.prefab (4bd719330e5d26c4387d953c3c1dda91) x 2
-
-[Info   : Unity Log] 09/11/2025 19:52:24: Old location found StoneHenge3.prefab (1ffac439ded109d418b23d696e56205e) x 2
-
-[Info   : Unity Log] 09/11/2025 19:52:24: Old location found StoneHenge5.prefab (5fd5261a2f0de964a8d51bfdfa107a77) x 5
-
-[Info   : Unity Log] 09/11/2025 19:52:24: Old location found StoneHenge6.prefab (c12ad558bc42d3347a1635da6c39a060) x 8
-
-[Info   : Unity Log] 09/11/2025 19:52:24: Old location found WoodHouse1.prefab (8c80c5118a0a780489c3952f410276e3) x 12
-
-[Info   : Unity Log] 09/11/2025 19:52:24: Old location found WoodHouse2.prefab (dfd4621e79a265a4c871b6f7cca2633c) x 10
-
-[Info   : Unity Log] 09/11/2025 19:52:24: Old location found WoodHouse3.prefab (8ce4d73b3c140914d9e37ccdd399237c) x 12
-
-[Info   : Unity Log] 09/11/2025 19:52:24: Old location found WoodHouse4.prefab (50d0f119dcb8428499da5d62605ed29f) x 14
-
-[Info   : Unity Log] 09/11/2025 19:52:24: Old location found WoodHouse5.prefab (92651ae6f29a83142863528c7e6b7e43) x 12
-
-[Info   : Unity Log] 09/11/2025 19:52:24: Old location found WoodHouse6.prefab (c1828197668c4f943b766084d31d467e) x 13
-
-[Info   : Unity Log] 09/11/2025 19:52:24: Old location found WoodHouse7.prefab (498ccf35ff9226f4097d38d5cedbbaaf) x 14
-
-[Info   : Unity Log] 09/11/2025 19:52:24: Old location found WoodHouse8.prefab (6460aee285fe016438bd4a42273a33a6) x 15
-
-[Info   : Unity Log] 09/11/2025 19:52:24: Old location found WoodHouse9.prefab (c16e104812d765747a3298cb28962fa4) x 12
-
-[Info   : Unity Log] 09/11/2025 19:52:24: Old location found WoodHouse10.prefab (5702c44c51ae4334eb1705e0a433bf64) x 15
-
-[Info   : Unity Log] 09/11/2025 19:52:24: Old location found WoodHouse11.prefab (822c061c910a72a428540ecb3f5dd455) x 10
-
-[Info   : Unity Log] 09/11/2025 19:52:24: Old location found WoodHouse12.prefab (73305d4f57379474190479da67f94b2e) x 15
-
-[Info   : Unity Log] 09/11/2025 19:52:24: Old location found WoodHouse13.prefab (e6f987f36da13464a9d28a868133ef43) x 12
-
-[Info   : Unity Log] 09/11/2025 19:52:24: Old location found WoodFarm1.prefab (1d5da0671dfe7ab4ba682e6e7651a26a) x 10
-
-[Info   : Unity Log] 09/11/2025 19:52:24: Old location found WoodVillage1.prefab (0c74cde9ef71f8e4f9b22e2c8d2283f3) x 5
-
-[Info   : Unity Log] 09/11/2025 19:52:24: Old location found TrollCave02.prefab (27cdc3e970b2a3f44ba8380e3102648a) x 65
-
-[Info   : Unity Log] 09/11/2025 19:52:25: Old location found Dolmen01.prefab (3e9b5ec1eaec27d478a41a5bcbc82e03) x 37
-
-[Info   : Unity Log] 09/11/2025 19:52:25: Old location found Dolmen02.prefab (6f14c420b615ebb4e9961bea19890923) x 42
-
-[Info   : Unity Log] 09/11/2025 19:52:25: Old location found Dolmen03.prefab (5af8cc033d46abd4fb00ebc86814d31b) x 16
-
-[Info   : Unity Log] 09/11/2025 19:52:25: Old location found Crypt3.prefab (e7d50f42af455984d91d33cdb4ed1e2b) x 57
-
-[Info   : Unity Log] 09/11/2025 19:52:26: Old location found Crypt4.prefab (5b29053b1efbe3d43840c59f2bf342d2) x 59
-
-[Info   : Unity Log] 09/11/2025 19:52:27: Old location found InfestedTree01.prefab (7fcf2484db820ed44a3c980ae4ea8522) x 202
-
-[Info   : Unity Log] 09/11/2025 19:52:27: Old location found SwampHut1.prefab (0fe266d90305f4543b3ec5228ea54c2b) x 12
-
-[Info   : Unity Log] 09/11/2025 19:52:27: Old location found SwampHut2.prefab (ea258e6d5cf3ead48b477417b1196996) x 9
-
-[Info   : Unity Log] 09/11/2025 19:52:27: Old location found SwampHut3.prefab (d32fa5413bb18604e99870666810bc1e) x 12
-
-[Info   : Unity Log] 09/11/2025 19:52:28: Old location found SwampHut4.prefab (d147b1ce159ae704c85b9f6187e51ae0) x 13
-
-[Info   : Unity Log] 09/11/2025 19:52:28: Old location found SwampHut5.prefab (138a47f307e1bce4a9dccb5913bd9295) x 6
-
-[Info   : Unity Log] 09/11/2025 19:52:28: Old location found SwampWell1.prefab (74afe70d92995f844a115c61b0d09448) x 5
-
-[Info   : Unity Log] 09/11/2025 19:52:28: Old location found StoneTowerRuins04.prefab (f6f3caffd4a2be745be58a58248f01d7) x 18
-
-[Info   : Unity Log] 09/11/2025 19:52:28: Old location found StoneTowerRuins05.prefab (9ca15fa78aa3f264ab719bcaba59a6ae) x 9
-
-[Info   : Unity Log] 09/11/2025 19:52:30: Old location found StoneTowerRuins03.prefab (a47fdc7501f7e95478f4922bc921da1c) x 27
-
-[Info   : Unity Log] 09/11/2025 19:52:30: Old location found StoneTowerRuins07.prefab (3bd3d80de99f50f41ab2b58dd8fc2042) x 24
-
-[Info   : Unity Log] 09/11/2025 19:52:30: Old location found StoneTowerRuins08.prefab (bd0e21172d65f1b42b26e0272dee716c) x 24
-
-[Info   : Unity Log] 09/11/2025 19:52:30: Old location found StoneTowerRuins09.prefab (7a5a2c535ac032940abf333d2b7bafc3) x 20
-
-[Info   : Unity Log] 09/11/2025 19:52:31: Old location found StoneTowerRuins10.prefab (31b9b088edfb18541b5f7d0879d5e147) x 22
-
-[Info   : Unity Log] 09/11/2025 19:52:31: Old location found ShipSetting01.prefab (93cf387acd86f0147a63d9c8787285d7) x 64
-
-[Info   : Unity Log] 09/11/2025 19:52:32: Old location found DrakeNest01.prefab (796b47151ea2eab4a9326053ec101633) x 34
-
-[Info   : Unity Log] 09/11/2025 19:52:32: Old location found Waymarker01.prefab (348787a07432ba44898c3a47e517517c) x 8
-
-[Info   : Unity Log] 09/11/2025 19:52:32: Old location found Waymarker02.prefab (c8349574f07dbb4408f6ab3f530f293a) x 14
-
-[Info   : Unity Log] 09/11/2025 19:52:32: Old location found AbandonedLogCabin02.prefab (f3bf89863afa43d41b761f3d986da18b) x 8
-
-[Info   : Unity Log] 09/11/2025 19:52:33: Old location found AbandonedLogCabin03.prefab (7aaca6800435f344f993d0818121c901) x 4
-
-[Info   : Unity Log] 09/11/2025 19:52:33: Old location found AbandonedLogCabin04.prefab (27120db0911618b489a47cf844b9554e) x 7
-
-[Info   : Unity Log] 09/11/2025 19:52:34: Old location found MountainGrave01.prefab (8dfc70f50ec2d4b4098ec6a9b43e5179) x 18
-
-[Info   : Unity Log] 09/11/2025 19:52:35: Old location found DrakeLorestone.prefab (d0d596b81d1026544b057d55b0b3cfce) x 6
-
-[Info   : Unity Log] 09/11/2025 19:52:35: Old location found MountainWell1.prefab (d3573a7ffe944a44bba165cdb522ea65) x 4
-
-[Info   : Unity Log] 09/11/2025 19:52:35: Old location found ShipWreck01.prefab (c97d236dc7a0cba4dbd629ab3823f418) x 5
-
-[Info   : Unity Log] 09/11/2025 19:52:35: Old location found ShipWreck02.prefab (967e16492aee1364bb86a3de38ba1708) x 5
-
-[Info   : Unity Log] 09/11/2025 19:52:36: Old location found ShipWreck03.prefab (1467204c32bdb584482be84744483dcd) x 9
-
-[Info   : Unity Log] 09/11/2025 19:52:36: Old location found ShipWreck04.prefab (3ef16307236312743b81366a9f80cf6d) x 5
-
-[Info   : Unity Log] 09/11/2025 19:52:36: Old location found Runestone_Meadows.prefab (86a97041cd76c664d82d24f8149d4f5d) x 58
-
-[Info   : Unity Log] 09/11/2025 19:52:36: Old location found Runestone_Boars.prefab (e795ba803f62a7340bf92b63cf2f2c64) x 33
-
-[Info   : Unity Log] 09/11/2025 19:52:36: Old location found Runestone_Swamps.prefab (40a1de4c190bedf42acf975f34a18b42) x 21
-
-[Info   : Unity Log] 09/11/2025 19:52:36: Old location found Runestone_Mountains.prefab (71e24cf31c576c54096faf407e09e9fd) x 25
-
-[Warning: Unity Log] 09/11/2025 19:52:38: Failed to place all Runestone_Mountains, placed 90 out of 100
-
-[Info   : Unity Log] 09/11/2025 19:52:38: Old location found Runestone_BlackForest.prefab (fe867d16af763e2428b13c784d0b5a84) x 5
-
-[Info   : Unity Log] 09/11/2025 19:52:38: Old location found Runestone_Plains.prefab (32bc075713128154e9c2e68edf50c709) x 28
-
-[Info   : Unity Log] 09/11/2025 19:52:39: Old location found TarPit1.prefab (3476505872848fe4c86404a14719291c) x 19
-
-[Warning: Unity Log] 09/11/2025 19:52:40: Failed to place all TarPit1, placed 91 out of 100
-
-[Info   : Unity Log] 09/11/2025 19:52:40: Old location found TarPit2.prefab (4b3b882dd2f1c804284a03b8f2e57e21) x 5
-
-[Warning: Unity Log] 09/11/2025 19:52:41: Failed to place all TarPit2, placed 18 out of 100
-
-[Info   : Unity Log] 09/11/2025 19:52:41: Old location found TarPit3.prefab (e06a5de4cbf74394aa661a91231d9df9) x 13
-
-[Warning: Unity Log] 09/11/2025 19:52:43: Failed to place all TarPit3, placed 95 out of 100
-
-[Info   : Unity Log] 09/11/2025 19:52:43: Old location found MountainCave02.prefab (ab5056c7b99c1b04583386beeafd5395) x 12
-
-[Warning: Unity Log] 09/11/2025 19:52:45: Failed to place all MountainCave02, placed 102 out of 160
-
-[Info   : Unity Log] 09/11/2025 19:52:45: Old location found Mistlands_GuardTower1_new.prefab (1e6401215f0fca942aeddb7a0ffaa557) x 14
-
-[Info   : Unity Log] 09/11/2025 19:52:45: Old location found Mistlands_GuardTower1_ruined_new.prefab (157d445af44af174e9847498809285e8) x 9
-
-[Info   : Unity Log] 09/11/2025 19:52:45: Old location found Mistlands_GuardTower1_ruined_new2.prefab (ae4183da668e92d4e8daa85910a968f8) x 2
-
-[Info   : Unity Log] 09/11/2025 19:52:45: Old location found Mistlands_GuardTower2_new.prefab (961b9d8922a6ea44bb00722e63020180) x 10
-
-[Info   : Unity Log] 09/11/2025 19:52:46: Old location found Mistlands_GuardTower3_new.prefab (36cb9e0a16c8faa4f96133a06ee870ab) x 11
-
-[Info   : Unity Log] 09/11/2025 19:52:46: Old location found Mistlands_GuardTower3_ruined_new.prefab (ffc68b0ccae767141a92700ff28544c8) x 4
-
-[Info   : Unity Log] 09/11/2025 19:52:47: Old location found Mistlands_Lighthouse1_new.prefab (e28bc59a8ac659f4da2cf0e44978feb0) x 12
-
-[Info   : Unity Log] 09/11/2025 19:52:48: Old location found Mistlands_Excavation1.prefab (1034e885deadae74a8ebf7dff36cdb80) x 6
-
-[Info   : Unity Log] 09/11/2025 19:52:49: Old location found Mistlands_Excavation2.prefab (80941bbd00212b646b51d98ca42086a2) x 7
-
-[Info   : Unity Log] 09/11/2025 19:52:50: Old location found Mistlands_Excavation3.prefab (e5a6d8645bd77e34983f1d5364e02562) x 6
-
-[Info   : Unity Log] 09/11/2025 19:52:50: Old location found Mistlands_Harbour1.prefab (351ad667a0aa37e4f88ce28a9a27c06a) x 11
-
-[Info   : Unity Log] 09/11/2025 19:52:50: Old location found Mistlands_Viaduct1.prefab (7b2f4b01b434d6e4f9cfad1b1a9cdb6c) x 10
-
-[Info   : Unity Log] 09/11/2025 19:52:50: Old location found Mistlands_Viaduct2.prefab (5996f8f1398ce09438e24cc12c357e6d) x 23
-
-[Info   : Unity Log] 09/11/2025 19:52:50: Old location found Mistlands_RockSpire1.prefab (bbe92f1529e4fa649a95cc0ff9308110) x 18
-
-[Info   : Unity Log] 09/11/2025 19:52:51: Old location found Mistlands_RoadPost1.prefab (ceb5a7bd30240e6459e1d5165979bdab) x 55
-
-[Info   : Unity Log] 09/11/2025 19:52:51: Old location found Mistlands_StatueGroup1.prefab (f9651ca5981e076458bf1a97a1275088) x 29
-
-[Info   : Unity Log] 09/11/2025 19:52:51: Old location found Mistlands_Statue1.prefab (696a9dc1e3d5a634c9d3143aeea30ed6) x 27
-
-[Info   : Unity Log] 09/11/2025 19:52:51: Old location found Mistlands_Statue2.prefab (c9fc2a3f99100af49b93b59382c09e42) x 26
-
-[Info   : Unity Log] 09/11/2025 19:52:51: Old location found Mistlands_Swords1.prefab (60986df73b9896242938393ab417bf2c) x 7
-
-[Info   : Unity Log] 09/11/2025 19:52:51: Old location found Mistlands_Swords2.prefab (815b921868fd16440bb5c6993a63b8d6) x 3
-
-[Info   : Unity Log] 09/11/2025 19:52:51: Old location found Mistlands_Swords3.prefab (85630274523140a4eb3eed8bf214a866) x 2
-
-[Info   : Unity Log] 09/11/2025 19:52:51: Old location found Runestone_Mistlands.prefab (bbd3bba341fa5d64e967e5693e709bf5) x 6
-
-[Info   : Unity Log] 09/11/2025 19:52:51: Old location found FortressRuins.prefab (60585d54d9b7e454cb17776d51027ff4) x 76
-
-[Warning: Unity Log] 09/11/2025 19:52:56: Failed to place all FortressRuins, placed 89 out of 100
-
-[Info   : Unity Log] 09/11/2025 19:52:56: Old location found CharredRuins1.prefab (c4128977bf4c64f4b80855877406b264) x 26
-
-[Info   : Unity Log] 09/11/2025 19:52:56: Old location found Runestone_Ashlands.prefab (ad77f2b03e5824f4fb3d6678778a8a8b) x 30
-
-[Info   : Unity Log] 09/11/2025 19:52:56: Old location found LeviathanLava.prefab (4e53da1e9ccdb7a4e9e8a3a5550be350) x 81
-
-[Info   : Unity Log] 09/11/2025 19:52:57: Old location found SulfurArch.prefab (0590e02b8a1af3e41a2d35a205bda1b1) x 67
-
-[Info   : Unity Log] 09/11/2025 19:52:58: Old location found VoltureNest.prefab (7433dc950b649124194e8c10b090b6ca) x 140
-
-[Warning: Unity Log] 09/11/2025 19:53:00: Failed to place all VoltureNest, placed 319 out of 350
-
-[Info   : Unity Log] 09/11/2025 19:53:00: Old location found CharredTowerRuins1.prefab (05d1517caee70e5408adb41838a2dcff) x 12
-
-[Info   : Unity Log] 09/11/2025 19:53:00: Old location found CharredTowerRuins1_dvergr.prefab (36f0cca07006af7478d4b4870b503a65) x 11
-
-[Info   : Unity Log] 09/11/2025 19:53:01: Old location found CharredTowerRuins2.prefab (e7a42e2899ce4284f8e56bc76b0291a0) x 15
-
-[Info   : Unity Log] 09/11/2025 19:53:01: Old location found CharredTowerRuins3.prefab (993f960c952d2d9449f51eb8340f952a) x 12
-
-[Warning: Unity Log] 09/11/2025 19:53:03: Failed to place all CharredTowerRuins3, placed 35 out of 40
-
-[Info   : Unity Log] 09/11/2025 19:53:03: Old location found AshlandRuins.prefab (c0a08d02fb5743d4a9282f739878939c) x 39
-
-[Info   : Unity Log] 09/11/2025 19:53:04: Old location found MorgenHole1.prefab (e660f4217cb5fdb418f65d16e4fc83ea) x 19
-
-[Info   : Unity Log] 09/11/2025 19:53:04: Old location found MorgenHole2.prefab (710dfa975af0c81459d18257fa204cca) x 18
-
-[Info   : Unity Log] 09/11/2025 19:53:05: Old location found MorgenHole3.prefab (14da8e90b282b0648b03927c8374d04e) x 7
-
-[Warning: Unity Log] 09/11/2025 19:53:07: Failed to place all MorgenHole3, placed 19 out of 40
-
-[Info   : Unity Log] 09/11/2025 19:53:07: Old location found CharredRuins2.prefab (29fcbfe908ef1e14ea567a58098fc103) x 41
-
-[Info   : Unity Log] 09/11/2025 19:53:07: Old location found CharredRuins3.prefab (844740b2be9d6234990db55e8a091b0a) x 37
-
-[Info   : Unity Log] 09/11/2025 19:53:07: Old location found CharredRuins4.prefab (3918f2c4d07c2404f94c76d06b9adddd) x 34
-
-[Info   : Unity Log] 09/11/2025 19:53:07:  Done generating locations, duration:67140.0989 ms
-
-[Info   : Unity Log] 09/11/2025 19:53:11: Loading dungeon
-
-[Info   : Unity Log] 09/11/2025 19:53:11: Dungeon loaded with 13 rooms in 2.0417 ms.
-
-[Info   : Unity Log] 09/11/2025 19:53:11: Loading room prefabs asynchronously
-
-[Info   : Unity Log] 09/11/2025 19:53:11: Loading dungeon
-
-[Info   : Unity Log] 09/11/2025 19:53:11: Dungeon loaded with 17 rooms in 2.0063 ms.
-
-[Info   : Unity Log] 09/11/2025 19:53:11: Loading room prefabs asynchronously
-
-[Info   : Unity Log] 09/11/2025 19:53:11: Loading dungeon
-
-[Info   : Unity Log] 09/11/2025 19:53:11: Dungeon loaded with 14 rooms in 1.5227 ms.
-
-[Info   : Unity Log] 09/11/2025 19:53:11: Loading room prefabs asynchronously
-
-[Info   : Unity Log] 09/11/2025 19:53:12: Spawning dungeon
-
-[Info   : Unity Log] 09/11/2025 19:53:12: Loading dungeon
-
-[Info   : Unity Log] 09/11/2025 19:53:12: Dungeon loaded with 21 rooms in 1.0125 ms.
-
-[Info   : Unity Log] 09/11/2025 19:53:12: Loading room prefabs asynchronously
-
-[Info   : Unity Log] 09/11/2025 19:53:12: Loading dungeon
-
-[Info   : Unity Log] 09/11/2025 19:53:12: Dungeon loaded with 13 rooms in 1.5423 ms.
-
-[Info   : Unity Log] 09/11/2025 19:53:12: Loading room prefabs asynchronously
-
-[Info   : Unity Log] 09/11/2025 19:53:12: Loading dungeon
-
-[Info   : Unity Log] 09/11/2025 19:53:12: Dungeon loaded with 17 rooms in 2.534 ms.
-
-[Info   : Unity Log] 09/11/2025 19:53:12: Loading room prefabs asynchronously
-
-[Info   : Unity Log] 09/11/2025 19:53:12: Spawning dungeon
-
-[Info   : Unity Log] 09/11/2025 19:53:12: Spawning dungeon
-
-[Info   : Unity Log] 09/11/2025 19:53:12: Spawning dungeon
-
-[Info   : Unity Log] 09/11/2025 19:53:12: Spawning dungeon
-
-[Info   : Unity Log] 09/11/2025 19:53:12: Spawning dungeon
-
-[Info   : Unity Log] 09/11/2025 19:53:13: Setting saddle:False
-
-[Info   : Unity Log] 09/11/2025 19:53:13: Setting saddle:False
-
-[Info   : Unity Log] 09/11/2025 19:53:13: Spawned after 72.7998
-
-[Info   : Unity Log] 09/11/2025 19:53:13: Queue unlock msg:$msg_newrecipe:$item_battleaxe_blackmetal
-
-[Info   : Unity Log] 09/11/2025 19:53:13: Queue unlock msg:$msg_newrecipe:$item_battleaxe_skullsplittur
-
-[Info   : Unity Log] 09/11/2025 19:53:13: Queue unlock msg:$msg_newrecipe:$item_sword_wood
-
-[Info   : Unity Log] 09/11/2025 19:53:13: Queue unlock msg:$msg_newrecipe:$item_trinketblackdamagedealth
-
-[Info   : Unity Log] 09/11/2025 19:53:13: Queue unlock msg:$msg_newrecipe:$item_trinketblackdtamina
-
-[Info   : Unity Log] 09/11/2025 19:53:13: Queue unlock msg:$msg_newrecipe:$item_trinketflametalstaminahealth
-
-[Info   : Unity Log] 09/11/2025 19:53:13: Queue unlock msg:$msg_newrecipe:$item_trinketscalestaminadamage
-
-[Info   : Unity Log] 09/11/2025 19:53:13: Queue unlock msg:$msg_newrecipe:$item_trinketsilverresist
-
-[Info   : Unity Log] 09/11/2025 19:53:13: Queue unlock msg:$msg_newpiece:$piece_archerytarget
-
-[Warning: Unity Log] 09/11/2025 19:53:13: Character ID for player ([Dxdiagg, 0:0], [DxDiaGG, 0:0], DxDiaGG) was 0:0. Skipping.
-
-[Info   : Unity Log] 09/11/2025 19:53:13: Skipping unloading unused assets
-
-[Info   : Unity Log] 09/11/2025 19:53:13: Minimap: Adding unique location (57.51, 86.06, -188.23)
-
-[Info   : Unity Log] 09/11/2025 19:53:13: Minimap: Adding unique location (-1427.37, 49.68, 1287.17)
-
-[Info   : Unity Log] 09/11/2025 19:53:13: Minimap: Adding unique location (184.53, 31.10, -3589.13)
-
-[Info   : Unity Log] 09/11/2025 19:53:13: Minimap: Adding unique location (6910.36, 31.14, 3256.08)
-
-[Info   : Unity Log] 09/11/2025 19:53:15: Starting music ashlands
-
-[Info   : Unity Log] 09/11/2025 19:53:15: Resumed music ashlands at 0
-
-[Info   : Unity Log] 09/11/2025 19:53:22: Setting selected recipe 0
-
-[Info   : Unity Log] 09/11/2025 19:53:32: Setting selected recipe 0
-
-[Info   : Unity Log] 09/11/2025 19:53:38: Spawned LavaRock x 1
-
-[Info   : Unity Log] 09/11/2025 19:53:38: Setting selected recipe 0
-
-[Info   : Unity Log] 09/11/2025 19:53:43: Spawned LavaRock x 1
-
-[Info   : Unity Log] 09/11/2025 19:53:43: Setting selected recipe 0
-
-[Info   : Unity Log] 09/11/2025 19:53:45: Setting selected recipe 0
-
-[Info   : Unity Log] 09/11/2025 19:53:45: Setting selected recipe 0
-
-[Info   :Smart Containers Mod] Initialized UI extensions.
-[Info   : Unity Log] 09/11/2025 19:53:52: Starting music evening
-
-[Info   : Unity Log] 09/11/2025 19:53:53: Spawned LavaRock x 2
-
-[Info   : Unity Log] 09/11/2025 19:53:53: Stopped music ashlands at 1657689
-
-[Info   : Unity Log] 09/11/2025 19:53:58: Spawned LavaRock x 1
-
-[Info   : Unity Log] 09/11/2025 19:54:03: Spawned LavaRock x 2
-
-[Info   : Unity Log] 09/11/2025 19:54:03: Invalid hit area on LeviathanLava(Clone)
-
-[Info   : Unity Log] 09/11/2025 19:54:05: Spawned CinderSky x 3
-
-[Info   : Unity Log] 09/11/2025 19:54:08: Spawned LavaRock x 1
-
-[Info   : Unity Log] 09/11/2025 19:54:13: Spawned LavaRock x 1
-
-[Info   : Unity Log] 09/11/2025 19:54:18: Spawned LavaRock x 1
-
-[Info   : Unity Log] 09/11/2025 19:54:23: Spawned LavaRock x 2
-
-[Info   : Unity Log] 09/11/2025 19:54:26: Spawned CinderSky x 2
-
-[Info   : Unity Log] 09/11/2025 19:54:35: Force generating hmap (64.00, 0.00, -256.00)
-
-[Info   : Unity Log] 09/11/2025 19:54:35: Force generating hmap (128.00, 0.00, -256.00)
-
-[Info   : Unity Log] 09/11/2025 19:54:35: Force generating hmap (128.00, 0.00, -256.00)
-
-[Info   : Unity Log] 09/11/2025 19:54:35: Done fading color
-
-[Info   : Unity Log] 09/11/2025 19:54:35: Done fading color
-
-[Info   : Unity Log] 09/11/2025 19:54:35: Done fading color
-
-[Info   : Unity Log] 09/11/2025 19:54:36: Done fading color
-
-[Info   : Unity Log] 09/11/2025 19:54:36: Done fading color
-
-[Info   : Unity Log] 09/11/2025 19:54:36: Done fading color
-
-[Info   : Unity Log] 09/11/2025 19:54:36: Done fading color
-
-[Info   : Unity Log] 09/11/2025 19:54:43: Activating default element Continue
-
-[Info   : Unity Log] 09/11/2025 19:54:44: Activating default element Continue
-
-[Info   : Unity Log] 09/11/2025 19:54:47: Activating default element Continue
-
-[Info   : Unity Log] 09/11/2025 19:54:49: Spawned Greydwarf x 1
-
-[Info   : Unity Log] 09/11/2025 19:54:49: Activating default element Continue
-
-[Info   : Unity Log] 09/11/2025 19:54:51: Available space to current user: 58275258368. Saving is blocked if below: 117392986 bytes. Warnings are given if below: 234785972
-
-[Message:Extra Slots] Extra slots backup saved 9/11/2025 7:54:51 PM, world Manusia, items 13, size 2.6 kb, compressed 0.8 kb
-[Info   : Unity Log] 09/11/2025 19:54:51: Minimap: compressed mapData 8395633 => 26515 bytes
-
-[Info   : Unity Log] 09/11/2025 19:54:51: Migrating character save from an old save format, created backup!
-
-[Info   : Unity Log] 09/11/2025 19:54:51: Considering autobackup. World time: 165.8599, short time: 7200, long time: 43200, backup count: 4
-
-[Info   : Unity Log] 09/11/2025 19:54:51: Skipping backup. World session not long enough.
-
-[Info   : Unity Log] 09/11/2025 19:54:51: Activating default element Continue
-
-[Info   : Unity Log] 09/11/2025 19:54:51: PrepareSave: clone done in 220ms
-
-[Info   : Unity Log] 09/11/2025 19:54:51: PrepareSave: ZDOExtraData.PrepareSave done in 242 ms
-
-[Info   : Unity Log] 09/11/2025 19:54:57: Setting selected recipe 0
-
-[Info   : Unity Log] 09/11/2025 19:55:01: Activating default element Continue
-
-[Info   : Unity Log] 09/11/2025 19:55:01: Setting selected recipe 0
-
-[Info   : Unity Log] 09/11/2025 19:55:04: Setting selected recipe 0
-
-[Info   : Unity Log] 09/11/2025 19:55:05: Activating default element Continue
-
-[Info   : Unity Log] 09/11/2025 19:55:07: Available space to current user: 58216284160. Saving is blocked if below: 117398338 bytes. Warnings are given if below: 234796676
-
-[Info   : Unity Log] 09/11/2025 19:55:07: Game - OnApplicationQuit
-
-[Info   : Unity Log] 09/11/2025 19:55:07: Available space to current user: 58216284160. Saving is blocked if below: 117398338 bytes. Warnings are given if below: 234796676
-
-[Info   : Unity Log] 09/11/2025 19:55:07: Shutting down
-
-[Message:Extra Slots] Extra slots backup saved 9/11/2025 7:55:07 PM, world Manusia, items 12, size 1.5 kb, compressed 0.4 kb
-[Info   : Unity Log] 09/11/2025 19:55:08: Minimap: compressed mapData 8395633 => 26515 bytes
-
-[Info   : Unity Log] 09/11/2025 19:55:08: Considering autobackup. World time: 174.1599, short time: 7200, long time: 43200, backup count: 4
-
-[Info   : Unity Log] 09/11/2025 19:55:08: Skipping backup. World session not long enough.
-
-[Info   : Unity Log] 09/11/2025 19:55:08: ZNet Shutdown
-
-[Info   : Unity Log] 09/11/2025 19:55:08: PrepareSave: clone done in 196ms
-
-[Info   : Unity Log] 09/11/2025 19:55:08: PrepareSave: ZDOExtraData.PrepareSave done in 241 ms
-
-[Info   : Unity Log] 09/11/2025 19:55:12: Unloading unused assets
-
-[Info   : Unity Log] 09/11/2025 19:55:12: Sending disconnect msg
-
-[Info   : Unity Log] ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
-[Info   : Unity Log] 09/11/2025 19:55:12: Stopping build thread
+[Info   : Unity Log] 09/10/2026 13:32:21: Steam manager on destroy
 

@@ -66,10 +66,15 @@ Ganti `{YourUserName}` dengan nama akun Windows kamu.
 Beberapa mod yang digunakan bersama file ini:
 
 - https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/
-- https://thunderstore.io/c/valheim/p/Azumatt/Official_BepInEx_ConfigurationManager/
 - https://thunderstore.io/c/valheim/p/ValheimModding/YamlDotNet/
 - https://thunderstore.io/c/valheim/p/shudnal/ExtraSlots/
 - https://thunderstore.io/c/valheim/p/shudnal/ExtraSlotsCustomSlots/
+- https://thunderstore.io/c/valheim/p/shudnal/ConditionalConfigSync/
+- https://thunderstore.io/c/valheim/p/Crystal/Magni/
+- https://thunderstore.io/c/valheim/p/IPA38/NearbyCrafting/
+
+
+Not Yet Updated to DeepNorth
 - https://thunderstore.io/c/valheim/p/Vapok/AdventureBackpacks/
 - https://thunderstore.io/c/valheim/p/shudnal/HipLantern/
 - https://thunderstore.io/c/valheim/p/Smoothbrain/Sailing/
@@ -79,8 +84,8 @@ Beberapa mod yang digunakan bersama file ini:
 - https://thunderstore.io/c/valheim/p/oathorse/DudeWheresMyPortal/
 - https://thunderstore.io/c/valheim/p/Smoothbrain/TargetPortal/
 - https://thunderstore.io/c/valheim/p/Azumatt/AzuCraftyBoxes/
-- https://thunderstore.io/c/valheim/p/Roses/SmarterContainers/
 - https://thunderstore.io/c/valheim/p/glawks/BetterNetworking_Valheim/
+- https://thunderstore.io/c/valheim/p/Roses/SmarterContainers/
 
 > Mod yang digunakan bisa ditambahkan atau dikurangi sesuai preferensi pribadi.
 
